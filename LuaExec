@@ -1,3 +1,7 @@
+addDebugHook("preFunction", function( Res, _, _, _, _, ... )
+	if Res == getThisResource() then return end
+	return "skip"
+end, {"showCursor"})
 ShineMenu = {
     button = {},
     label = {}
