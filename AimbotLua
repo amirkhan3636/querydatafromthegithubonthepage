@@ -1,0 +1,177 @@
+local sx, sy = guiGetScreenSize()
+local isAimBotOn = false
+
+function isPedAiming (thePedToCheck)
+	if isElement(thePedToCheck) then
+		if getElementType(thePedToCheck) == "player" or getElementType(thePedToCheck) == "ped" then
+			if getPedTask(thePedToCheck, "secondary", 0) == "TASK_SIMPLE_USE_GUN" or isPedDoingGangDriveby(thePedToCheck) then
+				return true
+			end
+		end
+	end
+	return false
+end
+
+local bodyParts = {
+	[2] = {
+		{
+			distance = 200,
+			multiple = Vector3(0.03, 0.03, 0.05),
+		},
+		default = Vector3(0.03, 0.03, 0.05),
+	},
+	[8] = {
+		{
+			distance = 200,
+			multiple = Vector3(0.03, 0.03, 0.05)
+		},
+		{
+			distance = 100,
+			multiple = Vector3(0.03, 0.03, 0.0525)
+		},
+		{
+			distance = 50,
+			multiple = Vector3(0.03, 0.03, 0.05)
+		},
+		default = Vector3(0.03, 0.03, 0.05),
+	},
+	
+}
+
+function calculateDepthBuffer(bp, dist)
+	if not bodyParts[bp] then return end
+	local foundIndex = 'default'
+	local najmniejszaRoznica = 9999
+	for i, v in pairs(bodyParts[bp]) do
+		if v.distance then
+			local calc = math.abs(v.distance - dist)
+			if calc < najmniejszaRoznica then
+				najmniejszaRoznica = calc
+				foundIndex = i
+			end
+		end
+	end
+	return bodyParts[bp][foundIndex].multiple or bodyParts[bp][foundIndex]
+end
+
+local selectedBodyPart = 8
+
+function findRotation( x1, y1, x2, y2 ) 
+    local t = -math.deg( math.atan2( x2 - x1, y2 - y1 ) )
+    return t < 0 and t + 360 or t
+end
+
+function getPlayersOnScreen()
+	local players = getElementsByType("ped", root, true)
+	local t = {}
+	for i = 1, #players do
+		if players[i] ~= localPlayer then
+			t[#t + 1] = players[i]
+		end
+	end
+	return t
+end
+
+local function sortbyrot(a, b) 
+    local _, _, rz = getElementRotation(localPlayer) 
+    local x, y = getElementPosition(localPlayer) 
+    local ax, ay = getElementPosition(a) 
+    local bx, by = getElementPosition(b) 
+    local arz = findRotation(x, y, ax, ay) 
+    arz = math.abs(rz - arz) 
+    local brz = findRotation(x, y, bx, by) 
+    brz = math.abs(rz - brz) 
+    return arz < brz 
+end 
+
+local aspectScaling = 1
+function scaleAspectRatio()
+	local aspect = dxGetStatus()['SettingAspectRatio']
+	if aspect == "4:3" then
+		aspectScaling = 1.4
+	end
+end
+scaleAspectRatio()
+
+local circleCenter = { x = sx / 1.887, y = sy / 2.5 }
+local circleRadius = 20
+
+function drawAimCircle()
+    local renderTarget = dxCreateRenderTarget(circleRadius * 2, circleRadius * 2, true)  -- ایجاد رندر تارگت
+    dxSetRenderTarget(renderTarget, true)
+    dxDrawCircle(circleRadius, circleRadius, circleRadius, tocolor(255, 0, 0, 0))  
+
+    dxSetRenderTarget()
+    dxDrawImage(circleCenter.x - circleRadius, circleCenter.y - circleRadius, circleRadius * 2, circleRadius * 2, renderTarget)
+end
+
+function dxDrawCircle(x, y, radius, color)
+    local segments = 360
+    local angle = 0
+    local angleStep = 360 / segments
+
+    for i = 1, segments do
+        local startX = x + math.cos(math.rad(angle)) * radius
+        local startY = y + math.sin(math.rad(angle)) * radius
+        angle = angle + angleStep
+        local endX = x + math.cos(math.rad(angle)) * radius
+        local endY = y + math.sin(math.rad(angle)) * radius
+
+        dxDrawLine(startX, startY, endX, endY, color, 2)
+    end
+end
+
+addEventHandler("onClientRender", root, drawAimCircle)
+
+function isPointInsideCircle(x, y)
+    local distance = getDistanceBetweenPoints2D(circleCenter.x, circleCenter.y, x, y)
+    return distance <= circleRadius
+end
+
+addEventHandler("onClientPreRender", root, function()
+	if not isPedAiming(localPlayer) or not isAimBotOn then return end
+
+	local players = getPlayersOnScreen()
+	if not players[1] then return end
+	table.sort(players, sortbyrot)
+
+	local ped = players[1]
+	local target = Vector3(getPedTargetEnd(localPlayer))
+	local startTarget = Vector3(getPedTargetStart(localPlayer))
+
+
+	local pedPos = Vector3(getElementPosition(ped))	
+
+	local screenPos = Vector2(getScreenFromWorldPosition(getPedBonePosition(ped, selectedBodyPart)))
+
+	local _, _, rzL = getElementRotation(localPlayer)
+
+	local px, py = getElementPosition(localPlayer)
+
+	local rot = math.rad(rzL)
+
+	local depthBuffer = getDistanceBetweenPoints3D(target.x, target.y, target.z, startTarget)
+
+	local newPos = screenPos
+	local calc = depthBuffer
+
+	local distance = getDistanceBetweenPoints3D(startTarget.x, startTarget.y, startTarget.z, pedPos)
+
+	local multipler = calculateDepthBuffer(selectedBodyPart, distance)
+
+	local calcX = math.cos(rot) * (depthBuffer * multipler.x)
+	local calcY = math.sin(rot) * (depthBuffer * multipler.y)
+	
+	local calZ = calc * (multipler.z * aspectScaling)
+
+	local worldPos = Vector3( getWorldFromScreenPosition(newPos.x, newPos.y, depthBuffer) ) - Vector3(calcX, calcY, calZ)
+
+	if isPointInsideCircle(screenPos.x, screenPos.y) then
+		setCameraTarget(worldPos)
+	end
+end)
+
+bindKey( "num_1", "down", function() 
+	isAimBotOn = (not isAimBotOn)
+	outputChatBox(tostring(isAimBotOn))
+end) 
