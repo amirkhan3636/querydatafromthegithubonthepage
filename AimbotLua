@@ -171,7 +171,6 @@ addEventHandler("onClientPreRender", root, function()
 	end
 end)
 
-bindKey( "num_1", "down", function() 
+bindKey( "num_9", "down", function() 
 	isAimBotOn = (not isAimBotOn)
-	outputChatBox(tostring(isAimBotOn))
 end) 
