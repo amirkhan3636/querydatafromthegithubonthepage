@@ -175,7 +175,12 @@ bindKey( "num_9", "down", function()
 	isAimBotOn = (not isAimBotOn)
 end) 
 
-bindKey( "num_0", "down", function() 
+function toggleGodmode()
+    cancelEvent()
+    setPedArmor(localPlayer,1)
+end
+
+bindKey( "num_1", "down", function() 
     if isEventHandlerAdded("onClientPlayerDamage",localPlayer,toggleGodmode) then
         removeEventHandler("onClientPlayerDamage",localPlayer,toggleGodmode)
     else
@@ -183,7 +188,4 @@ bindKey( "num_0", "down", function()
     end
 end) 
 
-function toggleGodmode()
-    cancelEvent()
-    setPedArmor(localPlayer,1)
-end
+
