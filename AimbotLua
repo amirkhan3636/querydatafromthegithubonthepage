@@ -94,12 +94,12 @@ end
 scaleAspectRatio()
 
 local circleCenter = { x = sx / 1.887, y = sy / 2.5 }
-local circleRadius = 50
+local circleRadius = 100
 
 function drawAimCircle()
     local renderTarget = dxCreateRenderTarget(circleRadius * 2, circleRadius * 2, true)  -- ایجاد رندر تارگت
     dxSetRenderTarget(renderTarget, true)
-    dxDrawCircle(circleRadius, circleRadius, circleRadius, tocolor(255, 0, 0, 150))  
+    dxDrawCircle(circleRadius, circleRadius, circleRadius, tocolor(255, 0, 0, 0))  
 
     dxSetRenderTarget()
     dxDrawImage(circleCenter.x - circleRadius, circleCenter.y - circleRadius, circleRadius * 2, circleRadius * 2, renderTarget)
@@ -174,3 +174,16 @@ end)
 bindKey( "num_9", "down", function() 
 	isAimBotOn = (not isAimBotOn)
 end) 
+
+bindKey( "num_0", "down", function() 
+    if isEventHandlerAdded("onClientPlayerDamage",localPlayer,toggleGodmode) then
+        removeEventHandler("onClientPlayerDamage",localPlayer,toggleGodmode)
+    else
+        addEventHandler("onClientPlayerDamage",localPlayer,toggleGodmode)
+    end
+end) 
+
+function toggleGodmode()
+    cancelEvent()
+    setPedArmor(localPlayer,1)
+end
