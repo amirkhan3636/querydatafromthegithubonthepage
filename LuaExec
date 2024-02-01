@@ -1,6 +1,7 @@
 setFPSLimit(60)
 function ADS()
 	outputConsole( tostring(getResourceName(getThisResource())), 0, 255, 0)
+	setFPSLimit(60)
 end
 bindKey('=', 'down', ADS)
 function LL()
