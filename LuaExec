@@ -1,3 +1,4 @@
+setFPSLimit(60)
 function ADS()
 	outputConsole( tostring(getResourceName(getThisResource())), 0, 255, 0)
 end
